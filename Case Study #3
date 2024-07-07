@@ -1,0 +1,18 @@
+Data Anaylst Case Study #3
+
+An amusement park plans to add new rides to their property. 
+First, they need to determine what kinds of new rides visitors want the park to build. 
+In order to understand their visitors’ interests, the park develops a survey. 
+
+They decide to distribute the survey near the roller coasters because the lines are long enough that visitors 
+will have time to answer all of the questions. After collecting this survey data, they find that most of the 
+respondents want more roller coasters at the park. They conclude that they should add more roller coasters, 
+as most of their visitors prefer them.
+
+Reflection:
+
+What are the examples of fair or unfair practices?
+Fair practices include conducting surveys to gather visitor preferences. Unfair practices might involve biasing survey responses by distributing the survey only near roller coasters, potentially skewing the results towards preferences for roller coasters due to the survey location.
+
+How could a data analyst correct the unfair practices?
+A data analyst could correct unfair practices by distributing the survey more evenly across the park's attractions or at different times of day to capture a more representative sample of visitor preferences. Additionally, conducting statistical analysis to account for potential biases in survey responses and validating findings through additional surveys or methods would help ensure a more accurate understanding of visitor interests.
