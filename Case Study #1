@@ -13,13 +13,14 @@ The administration concluded that the workshop was a success.
 
 Reflection
 
-    What are the examples of fair or unfair practices?
+What are the examples of fair or unfair practices?
 
-    - Fair practices include offering the workshop voluntarily and collecting performance data through a standardized survey. 
-      Unfair practices might involve not accounting for potential biases in survey responses or other factors that could 
-      influence teacher performance beyond workshop attendance.
+Fair practices include offering the workshop voluntarily and collecting performance data through a standardized survey. 
+Unfair practices might involve not accounting for potential biases in survey responses or other factors that could 
+influence teacher performance beyond workshop attendance.
 
+How could a data analyst correct the unfair practices?
 
-    How could a data analyst correct the unfair practices?
-
-    - A data analyst could correct unfair practices by conducting a more comprehensive analysis that controls for variables like teaching experience, subject taught, and student demographics. Additionally, using statistical techniques such as regression analysis to isolate the impact of workshop attendance on teacher performance could provide a more accurate assessment of its effectiveness.
+A data analyst could correct unfair practices by conducting a more comprehensive analysis that controls for variables like teaching experience, 
+subject taught, and student demographics. Additionally, using statistical techniques such as regression analysis to isolate the impact of 
+workshop attendance on teacher performance could provide a more accurate assessment of its effectiveness.
