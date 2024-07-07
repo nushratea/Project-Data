@@ -1,4 +1,4 @@
-# Data Analyst Case Study 1
+# Data Analysis Case Study #1
 
 To improve the effectiveness of its teaching staff, the administration of a high school offered the opportunity for all teachers to participate in a workshop. 
 They were not required to attend; instead, the administration encouraged teachers to sign up. Of the 43 teachers on staff, 19 chose to take the workshop.
@@ -11,16 +11,13 @@ The comparison revealed that teachers who attended the workshop had an average s
 
 The administration concluded that the workshop was a success.
 
-Reflection
+Reflection:
 
 What are the examples of fair or unfair practices?
 
-Fair practices include offering the workshop voluntarily and collecting performance data through a standardized survey. 
-Unfair practices might involve not accounting for potential biases in survey responses or other factors that could 
-influence teacher performance beyond workshop attendance.
+Voluntary participation in the workshop and the use of a standardized survey to gather performance data are examples of fair practices. 
+Injustices could include not taking into consideration survey respondents' possible biases or other variables that might affect teachers' performance in addition to workshop participation.
 
 How could a data analyst correct the unfair practices?
 
-A data analyst could correct unfair practices by conducting a more comprehensive analysis that controls for variables like teaching experience, 
-subject taught, and student demographics. Additionally, using statistical techniques such as regression analysis to isolate the impact of 
-workshop attendance on teacher performance could provide a more accurate assessment of its effectiveness.
+By performing a more thorough study that accounts for characteristics like teacher experience, subject taught, and student demographics, a data analyst could address unfair practices. Furthermore, a more precise evaluation of the workshop's efficacy may be obtained by isolating the influence of workshop attendance on teacher performance using statistical methods like regression analysis.
