@@ -1,0 +1,24 @@
+Data Analyst Case Study #2
+
+An automotive company tests the driving capabilities of its self-driving car prototype. 
+They carry out the tests on various types of roadways—specifically, a race track, trail track, and dirt road.
+
+The researchers only test the prototype during the daytime. 
+They collect two types of data: sensor data from the car during the drives and video data of the drives from cameras on the car.
+
+They review the data after the initial tests. 
+The results illustrate that the new self-driving car meets the performance standards across each of the roadways. As a result, the car can progress to the next phase of testing, which will include driving in various weather conditions. 
+Reflection
+
+Consider this scenario:
+
+What are the examples of fair or unfair practices?
+
+Fair practices include testing the self-driving car prototype on different types of roadways and collecting both sensor and video data. 
+Unfair practices might involve only testing during the daytime, which could skew results and not fully represent the car's performance in varying lighting conditions.
+
+How could a data analyst correct the unfair practices?
+
+A data analyst could correct unfair practices by recommending or conducting additional tests during nighttime conditions to assess the 
+prototype's performance in low-light situations. Analyzing the sensor and video data from these additional tests would provide a more comprehensive evaluation of the self-driving car's capabilities across different lighting environments.
+
