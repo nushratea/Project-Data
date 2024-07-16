@@ -232,17 +232,12 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
   <li>E-mail: <a href="mailto:parishaahmed100@gmail.com">parishaahmed100@gmail.com</a></li>
 </ul>
 
-<link href="Project-Data/style.css" type="text/css" rel="stylesheet">
-<div class="loader-container">
-    <div class="flipping-cards">
-        <div class="card">G</div>
-        <div class="card">O</div>
-        <div class="card">O</div>
-        <div class="card">D</div>
-        <div class="card"> </div>
-        <div class="card">D</div>
-        <div class="card">A</div>
-        <div class="card">Y</div>
-        <div class="card">!</div>
-    </div>
+<div class="pendulum">
+  <div class="pendulum_box">
+    <div class="ball first"></div>
+      <div class="ball"></div>
+      <div class="ball"></div>
+      <div class="ball"></div>
+      <div class="ball last"></div>
+  </div>
 </div>
