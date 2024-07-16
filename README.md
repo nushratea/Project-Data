@@ -119,7 +119,7 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" ><img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" title="Tableau" alt="Microsoft Excel" width="55" height="45" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" ><img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" title="Microsoft Excel" alt="Microsoft Excel" width="55" height="45" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="55" height="55" style="max-width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55" style="max-width: 100%;"></a></td>
@@ -149,7 +149,7 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"><img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" title="Microsoft Azure Storage Blob" alt="Microsoft Azure Storage Blob" width="55" height="45" style="max-width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/A/aws-dynamodb-logo-CF7BCC577D-seeklogo.com.png"><img src="https://seeklogo.com/images/A/aws-dynamodb-logo-CF7BCC577D-seeklogo.com.png" title="AWS DynamoDB" alt="AWS DynamoDB" width="55" height="45" style="max-width: 100%;"></a></td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/O/Oracle-logo-697F6043E4-seeklogo.com.pngg"><img src="https://seeklogo.com/images/O/Oracle-logo-697F6043E4-seeklogo.com.png" title="Oracle DB" alt="Oracle DB" width="55" height="55" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/v2/resize:fit:804/format:webp/1*KTDZHTVaVbvbyhIf2PmBAw.png"><img src="https://miro.medium.com/v2/resize:fit:804/format:webp/1*KTDZHTVaVbvbyhIf2PmBAw.png" title="Microsoft SQL Server Management Studio" alt="Microsoft SQL Server Management Studio" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"><img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="Microsoft SQL Server Management Studio" alt="Microsoft SQL Server Management Studio" width="55" height="55" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -180,16 +180,14 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 <table>
 <thead>
   <tr>
-    <th>Tableau</th>
-    <th>PowerBi</th>
-    <th>Matplotlib</th>
+    <th>VBox</th>
+    <th>Parallels</th>
   </tr>
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"><img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"><img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" title="PowerBi" alt="PowerBi" width="55" height="55" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png"><img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib" alt="Matplotlib" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="hhttps://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VBox" alt="VBox" width="45" height="45" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/P/parallels-logo-3792356D2C-seeklogo.com.png"><img src="https://seeklogo.com/images/P/parallels-logo-3792356D2C-seeklogo.com.png" title="Parallels" alt="Parallels" width="90" height="45" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -198,18 +196,18 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 <table>
 <thead>
   <tr>
-    <th>Microsoft Excel</th>
-    <th>Pandas</th>
-    <th>NumPy</th>
-    <th>Jupyter Notebook</th>
+    <th>Windows</th>
+    <th>Linux</th>
+    <th>iOS</th>
+    <th>Ubuntu</th>
   </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" ><img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" title="Tableau" alt="Microsoft Excel" width="55" height="45" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="55" height="55" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" ><img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" title="Windows" alt="Windows" width="55" height="45" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/I/ios-logo-79BD026C93-seeklogo.com.png"><img src="https://seeklogo.com/images/I/ios-logo-79BD026C93-seeklogo.com.png" title="iOS" alt="iOS" width="65" height="45" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
