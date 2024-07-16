@@ -232,6 +232,7 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
   <li>E-mail: <a href="mailto:parishaahmed100@gmail.com">parishaahmed100@gmail.com</a></li>
 </ul>
 
+<link href="Project-Data/style.css" type="text/css" rel="stylesheet">
 <div class="loader-container">
     <div class="flipping-cards">
         <div class="card">G</div>
