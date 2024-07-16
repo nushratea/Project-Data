@@ -1,10 +1,3 @@
-<html>
-<head>
-  <link type="text/css" rel="stylesheet" href="style.css"/>
-</head>
-
-<body>
-
 <h1>Nushrate Ahmed - Data Analyst Portfolio</h1>
 
 <h2>About</h2>
@@ -238,16 +231,3 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
   <li>LinkedIn: <a href="www.linkedin.com/in/nushrateahmed">www.linkedin.com/in/nushrateahmed</a></li>
   <li>E-mail: <a href="mailto:parishaahmed100@gmail.com">parishaahmed100@gmail.com</a></li>
 </ul>
-
-<div class="pendulum">
-  <div class="pendulum_box">
-    <div class="ball first"></div>
-      <div class="ball"></div>
-      <div class="ball"></div>
-      <div class="ball"></div>
-      <div class="ball last"></div>
-  </div>
-</div>
-
-</body>
-</html>
