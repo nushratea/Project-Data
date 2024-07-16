@@ -231,3 +231,17 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
   <li>LinkedIn: <a href="www.linkedin.com/in/nushrateahmed">www.linkedin.com/in/nushrateahmed</a></li>
   <li>E-mail: <a href="mailto:parishaahmed100@gmail.com">parishaahmed100@gmail.com</a></li>
 </ul>
+
+<div class="loader-container">
+    <div class="flipping-cards">
+        <div class="card">G</div>
+        <div class="card">O</div>
+        <div class="card">O</div>
+        <div class="card">D</div>
+        <div class="card"> </div>
+        <div class="card">D</div>
+        <div class="card">A</div>
+        <div class="card">Y</div>
+        <div class="card">!</div>
+    </div>
+</div>
