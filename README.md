@@ -71,8 +71,9 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 <th>Python3</th>
 <th>C</th>
 <th>JS</th>
-<th>Solidity</th>
-<th>GO</th>
+<th>SQL</th>
+<th>HTML5</th>
+<th>CSS3</th>
 </tr>
 </thead>
 <tbody>
