@@ -239,7 +239,6 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
   <li>E-mail: <a href="mailto:parishaahmed100@gmail.com">parishaahmed100@gmail.com</a></li>
 </ul>
 
-<link rel="stylesheet" href="style.css">
 <div class="pendulum">
   <div class="pendulum_box">
     <div class="ball first"></div>
@@ -249,5 +248,6 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
       <div class="ball last"></div>
   </div>
 </div>
+
 </body>
 </html>
