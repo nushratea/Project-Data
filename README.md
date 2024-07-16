@@ -24,7 +24,17 @@ P.S. Do check out my CV as it is uploaded. You can also request a copy via email
 
 <h2>Portfolio Projects</h2>
 
-Coming Soon
+<h4>Senior Web Development Project – <a>www.nushrateahmed.com</a></h4>
+<ul>
+  <li>Developed a responsive portfolio website showcasing personal projects using HTML, CSS, and JavaScript.</li>
+  <li>Implemented smooth animations and interactive elements to enhance user experience.</li>
+</ul>
+
+<h4>WordPress Web Development Project - <a>https://a-travelers-diary.blog/</a></h4> 
+<ul>
+  <li>Developed a responsive portfolio using the WordPress platform and creative content.</li>
+</ul>
+
 
 <h2>Education</h2>
 
