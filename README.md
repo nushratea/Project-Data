@@ -59,6 +59,7 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 </ul>
 
 <h2>Languages & Tools</h2>
+
 <h3>Languages:</h3>
 <table>
 <thead>
@@ -78,14 +79,15 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-    original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png"><img src="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png" title="SQL" alt="SQL" width="75" height="50" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55" style="max-width: 100%;"></a></td>
 <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/v2/resize:fit:1250/format:webp/1*81Qgy_FDdsGcsD-ULZNraQ.png"><img src="https://miro.medium.com/v2/resize:fit:1250/format:webp/1*81Qgy_FDdsGcsD-ULZNraQ.png" title="DAX" alt="DAX" width="60" height="70" style="max-width: 100%;"></a></td>
+<td align="center><a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/v2/resize:fit:1250/format:webp/1*81Qgy_FDdsGcsD-ULZNraQ.png"><img src="https://miro.medium.com/v2/resize:fit:1250/format:webp/1*81Qgy_FDdsGcsD-ULZNraQ.png" title="DAX" alt="DAX" width="60" height="70" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
+
 <h3>Data Visualization Tools:</h3>
 <table>
 <thead>
@@ -97,9 +99,117 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-    original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55" style="max-width: 100%;"></a></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"><img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"><img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" title="PowerBi" alt="PowerBi" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png"><img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib" alt="Matplotlib" width="55" height="55" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Data Analysis Tools:</h3>
+<table>
+<thead>
+  <tr>
+    <th>Microsoft Excel</th>
+    <th>Pandas</th>
+    <th>NumPy</th>
+    <th>Jupyter Notebook</th>
+    <th>Google Data Studio</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" ><img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" title="Tableau" alt="Microsoft Excel" width="55" height="45" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/G/google-data-studio-logo-C43C121141-seeklogo.com.png"><img src="https://seeklogo.com/images/G/google-data-studio-logo-C43C121141-seeklogo.com.png" title="Google Data Studio" alt="Google Data Studio" width="95" height="40" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Database:</h3>
+<table>
+<thead>
+  <tr>
+    <th>MySQL</th>
+    <th>PostgreSQL</th>
+    <th>MongoDB</th>
+    <th>Microsoft Azure Storage Blob</th>
+    <th>AWS DynamoDB</th>
+    <th>Oracle DB</th>
+    <th>Microsoft SQL Server Management Studio</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" ><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"><img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" title="Microsoft Azure Storage Blob" alt="Microsoft Azure Storage Blob" width="55" height="45" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/A/aws-dynamodb-logo-CF7BCC577D-seeklogo.com.png"><img src="https://seeklogo.com/images/A/aws-dynamodb-logo-CF7BCC577D-seeklogo.com.png" title="AWS DynamoDB" alt="AWS DynamoDB" width="55" height="45" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/O/Oracle-logo-697F6043E4-seeklogo.com.pngg"><img src="https://seeklogo.com/images/O/Oracle-logo-697F6043E4-seeklogo.com.png" title="Oracle DB" alt="Oracle DB" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/v2/resize:fit:804/format:webp/1*KTDZHTVaVbvbyhIf2PmBAw.png"><img src="https://miro.medium.com/v2/resize:fit:804/format:webp/1*KTDZHTVaVbvbyhIf2PmBAw.png" title="Microsoft SQL Server Management Studio" alt="Microsoft SQL Server Management Studio" width="55" height="55" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Web Development:</h3>
+<table>
+<thead>
+  <tr>
+    <th>Visual Studio</th>
+    <th>jQuery</th>
+    <th>GitHub</th>
+    <th>Bootstrap</th>
+    <th>WordPress</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" ><img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" title="Visual Studio" alt="Visual Studio" width="55" height="45" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png"><img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" title="jQuery" alt="jQuery" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png"><img src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" title="GitHub" alt="GitHub" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"><img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" title="Bootstrap" alt="Bootstrap" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"><img src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png" title="WordPress<" alt="WordPress<" width="55" height="55" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Environment, Testing, & Others:</h3>
+<table>
+<thead>
+  <tr>
+    <th>Tableau</th>
+    <th>PowerBi</th>
+    <th>Matplotlib</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png"><img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"><img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" title="PowerBi" alt="PowerBi" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png"><img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib" alt="Matplotlib" width="55" height="55" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Operating Systems:</h3>
+<table>
+<thead>
+  <tr>
+    <th>Microsoft Excel</th>
+    <th>Pandas</th>
+    <th>NumPy</th>
+    <th>Jupyter Notebook</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" ><img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" title="Tableau" alt="Microsoft Excel" width="55" height="45" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="55" height="55" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
