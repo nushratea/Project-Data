@@ -1,20 +1,9 @@
 <html>
 <head>
-<style>
-tag {
-  css-property: value;
-}
-
-anothertag {css-property: value;}
-
-.class {
-  css-property: value;
-  css-property: value;
-  css-property: value;
-
-.anotherclass {css-property: value;css-property: value;css-property:value;}
-</style>
+  <link type="text/css" rel="stylesheet" href="style.css" />
 </head>
+
+<body>
 
 <h1>Nushrate Ahmed - Data Analyst Portfolio</h1>
 
@@ -260,3 +249,5 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
       <div class="ball last"></div>
   </div>
 </div>
+</body>
+</html>
