@@ -1,6 +1,6 @@
 <html>
 <head>
-  <link type="text/css" rel="stylesheet" href="Project-Data/style.css" />
+  <link type="text/css" rel="stylesheet" href="/style.css" />
 </head>
 
 <body>
