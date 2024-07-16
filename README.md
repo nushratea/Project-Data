@@ -1,3 +1,21 @@
+<html>
+<head>
+<style>
+tag {
+  css-property: value;
+}
+
+anothertag {css-property: value;}
+
+.class {
+  css-property: value;
+  css-property: value;
+  css-property: value;
+
+.anotherclass {css-property: value;css-property: value;css-property:value;}
+</style>
+</head>
+
 <h1>Nushrate Ahmed - Data Analyst Portfolio</h1>
 
 <h2>About</h2>
