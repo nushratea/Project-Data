@@ -13,24 +13,24 @@ My academic journey has been marked by a dual concentration in Multimedia/Web De
 Throughout my career, I have demonstrated a strong ability to manage and execute projects efficiently, deliver exceptional customer service, and lead teams toward achieving organizational goals. 
 I can utilize data to uncover insights, streamline processes, and enhance operational efficiency.
 
-I am currently seeking opportunities to further develop my skills and make a meaningful contribution to an innovative and forward-thinking organization. 
+I am currently seeking opportunities to develop my skills further and make a meaningful contribution to an innovative and forward-thinking organization. 
 My goal is to leverage my analytical and technical expertise to drive impactful results and foster continuous growth.
 
 I look forward to hearing from you!
 
-P.S. Do check out my CV as it is uploaded. You can also request a copy via email. Due to privacy concerns, my LinkedIn profile was used in place of my CV. 
+P.S. Do check out my CV as it is uploaded. Please feel free to also request a copy through email. Due to privacy concerns, my LinkedIn profile was used in place of my CV. 
 
 <b>Thank you, and hope that you have a great day!</b>
 
 <h2>Portfolio Projects</h2>
 
-<h4>Senior Web Development Project – <a>www.nushrateahmed.com</a></h4>
+<h4>Senior Web Development Project – <a href="www.nushrateahmed.com">www.nushrateahmed.com</a></h4>
 <ul>
   <li>Developed a responsive portfolio website showcasing personal projects using HTML, CSS, and JavaScript.</li>
   <li>Implemented smooth animations and interactive elements to enhance user experience.</li>
 </ul>
 
-<h4>WordPress Web Development Project - <a>https://a-travelers-diary.blog/</a></h4> 
+<h4>WordPress Web Development Project - <a href="https://a-travelers-diary.blog/">https://a-travelers-diary.blog/</a></h4> 
 <ul>
   <li>Developed a responsive portfolio using the WordPress platform and creative content.</li>
 </ul>
