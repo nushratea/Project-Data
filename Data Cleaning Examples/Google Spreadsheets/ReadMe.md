@@ -5,4 +5,4 @@ You can compare the final files (data after cleaning) with the original files (d
 
 Please feel free to reach out to me if you have any questions!</p>
 
-<h2>Thank you!</h2>
+<h3>Thank you!</h3>
