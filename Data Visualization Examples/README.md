@@ -6,7 +6,7 @@
 
 image
 
-<li>Woorkbook Name: </li>
+<li>Workbook Name: </li>
 <li>Dataset: </li>
 <li>Link: </li>
 
@@ -16,7 +16,7 @@ image
 
 image
 
-<li>Woorkbook Name: </li>
+<li>Workbook Name: </li>
 <li>Dataset: </li>
 <li>Link: </li>
 
@@ -26,7 +26,7 @@ image
 
 image
 
-<li>Woorkbook Name: </li>
+<li>Workbook Name: </li>
 <li>Dataset: </li>
 <li>Link: </li>
 
