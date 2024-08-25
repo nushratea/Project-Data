@@ -4,7 +4,6 @@
 
 <h2>Workbook Name</h2>
 
-image
 
 <ul><li>Workbook Name: Global CO2 Emissions</li>
 <li>Dataset: Exported from Excel Worksheet CO2 Emissions</li>
