@@ -1,6 +1,10 @@
 <h1>Understanding Data with Tableau</h1>
 
-<p>Here are a few Tableau dashboards I've demonstrated using publicly available datasets. You can access any Tableau Workbook by clicking on the URL located at the bottom of each one. You are welcome to view the dashboard pictures below. For a list of all available workbooks, do see my <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
+<p>This GitHub repository, titled "Data Visualization Examples," showcases various data visualization techniques using different tools and datasets. The README.md file serves as an introduction to the project, highlighting the purpose and scope of the visualizations included. The repository is designed to demonstrate how complex data can be transformed into meaningful insights through effective visual representations.
+
+Each example within the repository is carefully curated to illustrate specific aspects of data visualization, such as chart types, color schemes, and interactivity. The visualizations cover a range of topics, providing practical applications that can be used as references or learning resources for those interested in data analytics and visualization.
+
+Additionally, the README.md file includes instructions on how to access and interact with the visualizations, making it easy for users to explore the examples and understand the methodologies behind them. For a list of all available workbooks, please vist <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
 
 <h2>CO2 Emission by Year</h2>
 
