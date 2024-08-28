@@ -20,9 +20,9 @@ Additionally, the README.md file includes instructions on how to access and inte
 
 <h2>AirBnB NYC Listings Dashboard</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/AirBnB%20NYC%20Listings/AirBnB%20NYC%20Listings%20Data%20Exploration%20Dashboard.png">CO2 Emission for Year 2000</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/AirBnB%20NYC%20Listings/AirBnB%20NYC%20Listings%20Data%20Exploration%20Dashboard.png">AirBnB NYC Listings Dashboard</a>
 
-<li>AirBnB NYC Listings Data Exploration Dashboard: </li>
+<li>AirBnB NYC Listings Data Exploration Dashboard</li>
 <li>Dataset: Airbnb Dataset</li>
 <li>Link: <a href="https://public.tableau.com/app/profile/nushrate.ahmed/viz/AirBnBNYCListingsDashboard/AirBnBNYCListingsDataExplorationDashboardz">AirBnB NYC Listings Data Exploration Dashboard</a></li><br>
 
