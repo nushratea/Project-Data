@@ -6,7 +6,7 @@
 
 <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/CO2%20Emission%20Across%20Years/CO2%20Emission%20Across%20Years.png">CO2 Emission Across Years</a>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/CO2%20Emission%20for%20Year%202000.png">CO2 Emission for Year 2000</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/CO2%20Emission%20Across%20Years/CO2%20Emission%20by%20Year2000.png">CO2 Emission for Year 2000</a>
 
 <ul><li>Workbook Name: CO2 Emission by Year</li>
 <li>Dataset: Exported from Excel Worksheet CO2 Emissions, Population, Energy, and GDP</li>
