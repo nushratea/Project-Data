@@ -12,9 +12,10 @@ Additionally, the README.md file includes instructions on how to access and inte
 
 <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/CO2%20Emission%20Across%20Years/CO2%20Emission%20by%20Year2000.png">CO2 Emission for Year 2000</a>
 
-<ul><li>Workbook Name: CO2 Emission by Year</li>
+<li>Workbook Name: CO2 Emission by Year</li>
 <li>Dataset: Exported from Excel Worksheet CO2 Emissions, Population, Energy, and GDP</li>
-<li>Link: <a href="[https://public.tableau.com/app/profile/nushrate.ahmed/viz/GlobalCO2Emissions_17246291969680/Sheet1#1](https://public.tableau.com/app/profile/nushrate.ahmed/viz/CO2EmissionbyYear_17246383922260/CO2EmissionbyYear#1)">CO2 Emission by Year</a></li></ul><br>
+<li>Link: <a href="https://public.tableau.com/app/profile/nushrate.ahmed/viz/CO2EmissionbyYear_17246383922260/CO2EmissionbyYear">CO2 Emission by Year</a>
+</li><br>
 
 <p>This Tableau visualization, titled "Global CO2 Emissions," provides an insightful analysis of carbon dioxide emissions across various countries over time. The visualization showcases the progression of CO2 emissions on a global scale, highlighting key trends and patterns in different regions. By displaying the data in an easily digestible format, the visualization enables users to identify which countries contribute the most to global emissions and how their contributions have changed over the years. The interactive elements, such as filters and tooltips, allow users to explore the data in more detail, offering a comprehensive understanding of global emission trends. This tool is valuable for anyone interested in environmental studies, policy-making, or simply understanding the impact of human activities on climate change.</p>
 
@@ -36,10 +37,19 @@ Overall, this dashboard serves as a dynamic tool for exploring the vast and vari
 
 <h2>Workbook Name</h2>
 
-image
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Tableau%20Story/Distribution%20Story.png">A New Distribution Center - a Story</a>
 
-<li>Workbook Name: </li>
-<li>Dataset: </li>
-<li>Link: </li>
+<li>Workbook Name: A New Distribution Center - a Story</li>
+<li>Dataset: SuperStore Dataset</li>
+<li>Link: <a href="https://public.tableau.com/app/profile/nushrate.ahmed/viz/ANewDistributionCenter-aStory/Story1#2">A New Distribution Center - a Story</a></li><br>
 
-<p>Description</p>
+
+<p>The Tableau visualization titled "A New Distribution Center - a Story" offers a comprehensive analysis aimed at evaluating the potential for establishing a new distribution center. This data-driven story is structured to guide stakeholders through key metrics and insights essential for making informed decisions about site selection and operational feasibility.
+
+The visualization begins by presenting a high-level overview of the current distribution network, highlighting existing centers and their geographic coverage. By analyzing key performance indicators (KPIs) such as shipping times, transportation costs, and customer satisfaction, the visualization identifies gaps and inefficiencies in the current network.
+
+One of the critical features of this Tableau story is its ability to filter and segment data based on various criteria, such as region, product type, and customer demand. This functionality allows users to explore different scenarios and understand how different factors impact the overall efficiency and profitability of the proposed distribution center.
+
+The visualization also includes a comparative analysis of potential locations for the new center, considering factors like proximity to major markets, labor costs, and infrastructure quality. By integrating demographic and economic data, the story provides a holistic view of each location's strengths and weaknesses, helping decision-makers choose the most strategic option.
+
+In the final sections, the visualization summarizes the key findings and recommendations, offering a clear path forward for stakeholders. This Tableau story not only supports data-driven decision-making but also serves as a powerful communication tool, effectively conveying complex data in an accessible and visually appealing manner.</p>
