@@ -26,7 +26,7 @@ Additionally, the README.md file includes instructions on how to access and inte
 
 <li>AirBnB NYC Listings Data Exploration Dashboard</li>
 <li>Dataset: Airbnb Dataset</li>
-<li>Link: <a href="https://public.tableau.com/app/profile/nushrate.ahmed/viz/AirBnBNYCListingsDashboard/AirBnBNYCListingsDataExplorationDashboardz">AirBnB NYC Listings Data Exploration Dashboard</a></li><br>
+<li>Link: <a href="https://public.tableau.com/shared/3R3S9Y56B?:display_count=n&:origin=viz_share_link">AirBnB NYC Listings Data Exploration Dashboard</a></li><br>
 
 <p>The "AirBnB NYC Listings Data Exploration Dashboard" on Tableau Public, offers a comprehensive visualization of Airbnb listings in New York City. This interactive dashboard provides insights into various aspects of Airbnb properties, including location, pricing, availability, and ratings, helping users explore the dynamics of short-term rentals in one of the world’s most competitive markets.
 
