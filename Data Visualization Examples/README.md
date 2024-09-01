@@ -35,7 +35,7 @@ In addition to price and location, the dashboard also provides insights into the
 
 Overall, this dashboard serves as a dynamic tool for exploring the vast and varied Airbnb market in New York City, providing valuable insights through clear and interactive visualizations.</p>
 
-<h2>Workbook Name</h2>
+<h2>A New Distribution Center - a Story</h2>
 
 <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Tableau%20Story/Distribution%20Story.png">A New Distribution Center - a Story</a>
 
@@ -52,4 +52,12 @@ One of the critical features of this Tableau story is its ability to filter and 
 
 The visualization also includes a comparative analysis of potential locations for the new center, considering factors like proximity to major markets, labor costs, and infrastructure quality. By integrating demographic and economic data, the story provides a holistic view of each location's strengths and weaknesses, helping decision-makers choose the most strategic option.
 
-In the final sections, the visualization summarizes the key findings and recommendations, offering a clear path forward for stakeholders. This Tableau story not only supports data-driven decision-making but also serves as a powerful communication tool, effectively conveying complex data in an accessible and visually appealing manner.</p>
+In the final sections, the visualization summarizes the key findings and recommendations, offering a clear path forward for stakeholders. This Tableau story not only supports data-driven decision-making but also serves as a powerful communication tool, effectively conveying complex data in an accessible and visually appealing manner.</p><br>
+
+<h1>Understanding Data with Google Spreadsheets</h1>
+
+<h2>Car Sales Database</h2>
+
+
+
+
