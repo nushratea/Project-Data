@@ -1,11 +1,11 @@
 <h1>A World of Visualization</h1>
 <h1>Understanding Data with Tableau</h1>
 
-<p>This GitHub repository, titled "Data Visualization Examples," showcases various data visualization techniques using different tools (such as Tableau and Google Spreadsheets) and datasets. The README.md file serves as an introduction to the project, highlighting the purpose and scope of the visualizations included. The repository is designed to demonstrate how complex data can be transformed into meaningful insights through effective visual representations.
+<p>This GitHub repository, titled "Data Visualization Examples," showcases various data visualization techniques using different tools (such as Tableau and Google Spreadsheets) and datasets. The README.md file introduces the project, highlighting the purpose and scope of the visualizations included. The repository is designed to demonstrate how complex data can be transformed into meaningful insights through effective visual representations.
 
-Each example within the repository is carefully curated to illustrate specific aspects of data visualization, such as chart types, color schemes, and interactivity. The visualizations cover a range of topics, providing practical applications that can be used as references or learning resources for those interested in data analytics and visualization.
+Each example within the repository is carefully curated to illustrate specific aspects of data visualization, such as chart types, color schemes, and interactivity. The visualizations cover various topics, providing practical applications that can be used as references or learning resources for those interested in data analytics and visualization.
 
-Additionally, the README.md file includes instructions on how to access and interact with the visualizations, making it easy for users to explore the examples and understand the methodologies behind them. For a list of all available workbooks, please vist <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
+Additionally, the README.md file includes instructions on how to access and interact with the visualizations, making it easy for users to explore the examples and understand the methodologies behind them. For a list of all available workbooks, please visit <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
 
 <h2>CO2 Emission by Year</h2>
 
@@ -81,10 +81,11 @@ In the final sections, the visualization summarizes the key findings and recomme
 <p>In the context of data analysis, managing and organizing large datasets is crucial for generating meaningful insights. This specific task from the Car Sales Project focuses on utilizing Google Sheets to handle common data management challenges, such as identifying duplicates and using lookup functions to streamline data integration. These techniques are especially relevant in scenarios where multiple datasets need to be cross-referenced or when data integrity is paramount.</p>
 
 <h2>Steps:</h2>
+
 <h3>Focusing on Task 2 Worksheet:</h3>
   <ol>
     <li>Removed duplicate values first (select desired column —— menu panel — data — remove duplicates)</li>
-    <li>Removed blanks (select desire column — menu panel — create filter — filer by condition — “is empty” — okay. Spreadsheet will located all blanks for that column — select the rows — right click — delete selected rows — click the filter sign on the right side of the column name to un-filter or unselect “filter by condition = none” — okay — spreadsheet should show current column view) repeat as many times as needed.</li>
+    <li>Removed blanks (select desire column — menu panel — create filter — filer by the condition — “is empty” — okay. The spreadsheet will locate all blanks for that column — select the rows — right click — and delete selected rows — click the filter sign on the right side of the column name to un-filter or unselect “filter by condition = none” — okay — The spreadsheet should show current column view) repeat as many times as needed.</li>
     <li>Un-filtered all the columns (menu panel — data — remove filter)</li>
     <li> VLOOKUP function used to insert values, to paste the formula vertically, drag the little + sign at the end of the select textbox down. Values should automatically appear.</li>
 
@@ -122,7 +123,7 @@ In the final sections, the visualization summarizes the key findings and recomme
     <li>Formatted the finished table.</li>
     <li>Created donut chart from table results (selected only “product line” and “sales” columns.</li>
     <li>Selected the table, navigate to menu panel — insert chart — Spreadsheet will auto-generate chart. </li>
-    <li>Resized chart as needed, changed chart type to donut chart  and changed   chart title.</li>
+    <li>Resized chart as needed, changed chart type to donut chart,  and changed   chart title.</li>
  </ol>
 
  <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Combo%20Chart.png">Combo Chart: Units sold Per Month and the Revenue Generated Every Month</a>
@@ -134,30 +135,30 @@ In the final sections, the visualization summarizes the key findings and recomme
     <li>Created combo chart from table results (selected only “Month_ID”,“Sales_units” and “Revenue” columns).</li>
     <li>Selected the table, navigate to menu panel — insert chart — Spreadsheet will auto-generate chart. </li>
     <li>Added a second y-axis to show “sales_unit” column data via edit chart — customize — series — select column — choose fill color — axis — right axis — okay</li>
-   <li>Resized chart as needed, changed chart type to combo chart, displaying revenue as line chart in orange, and changed chart title.</li>
-   <li>Left side y-axis is revenue sales. </li>
-   <li>Right side y-axis is number of units sold.</li>
-   <li>X-axis is month number the units were sold.</li>
+   <li>Resized chart as needed, changed chart type to combo chart, displaying revenue as a line chart in orange, and changed chart title.</li>
+   <li> The Left side y-axis is revenue sales. </li>
+   <li>Right side y-axis is many units sold.</li>
+   <li> The X-axis is the monthly number of units sold.</li>
  </ol> 
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Area%20Chart.png">Area Chart: A Comparsion of Units Sold and the Revenue Generated Each Month</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Area%20Chart.png">Area Chart: A Comparison of Units Sold and the Revenue Generated Each Month</a>
 
 <ol>
    <li value="10">Created an area chart using the same three columns as well ( “Month_ID”, “Sales_units” and “Revenue” columns).</li>
    <li>Added a second y-axis to show “sales_unit” column data via edit chart — customize — series — select column — choose fill color — axis — right axis — okay</li>
-   <li>Resized chart as needed and changed chart type to combo-chart, displaying revenue as line chart in orange. </li>
-   <li>Left side y-axis is revenue sales. </li>
-   <li>Right side y-axis is number of units sold.</li>
-   <li>X-axis is month number the units were sold.</li>
+   <li>Resized chart as needed and changed chart type to combo chart, displaying revenue as a line chart in orange. </li>
+   <li> The Left side y-axis is revenue sales. </li>
+   <li>Right side y-axis is the number of units sold.</li>
+   <li> The X-axis is the monthly number of units sold.</li>
 </ol>
 
 <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Geo%20Chart.png">Geo Chart: Number of Orders Per Country</a>
 
 <h2>Steps:</h2>
 <ol>
-   <li>For the third table (table generated using PIVOT Table from previous sheet). </li>
-  <li>Created a new table using just the countries and order number.</li>
-  <li>Selected both columns and navigated to menu panel — insert chart — spreadsheet will auto generate chart. </li>
+   <li>For the third table (table generated using PIVOT Table from the previous sheet). </li>
+  <li>Created a new table using just the countries and order numbers.</li>
+  <li>Selected both columns and navigated to menu panel — insert chart — spreadsheet will auto-generate chart. </li>
   <li>A Geo-chart was created.</li>
   <li>Resized chart as needed.</li>
 </ol>
@@ -170,7 +171,7 @@ In the final sections, the visualization summarizes the key findings and recomme
   <li>To paste the formula vertically, drag the little + sign at the end of the select textbox down. Values should automatically appear.</li>
   <li>Converted data to currency datatype.</li> 
   <li>Created gauge chart from table results (selected only “Quarter”, and “Revenue” columns).</li>
-  <li>Selected the table, navigate to menu panel — insert chart — spreadsheet will auto generate chart. </li>
+  <li>Selected the table, navigate to menu panel — insert chart — spreadsheet will auto-generate chart. </li>
   <li>Removed ‘Quarter’ from values so, that it does not appear twice via chart editor.</li>
   <li>Under customize, locate “Gauge” and edit the max to the highest value in revenue.</li>  
 </ol>
@@ -181,7 +182,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h2>Description:</h2>
 
-<p>The image titled "Task 4 - Dynamic Charts" from the Car Sales Project in your GitHub repository showcases a dynamic chart created using Google Spreadsheets. This chart is designed to visually represent data related to car sales, allowing for easy comparison and analysis of different metrics. This dynamic chart's objective is to allow users to select a specific sale representative from a list and view only that representative's sales figures or income earned for the months of September and October.</p>
+<p>The image titled "Task 4 - Dynamic Charts" from the Car Sales Project in this GitHub repository showcases a dynamic chart created using Google Spreadsheets. This chart is designed to visually represent data related to car sales, allowing for easy comparison and analysis of different metrics. This dynamic chart's objective is to allow users to select a specific sales representative from a list and view only that representative's sales figures or income earned for September and October.</p>
 
 <p>The chart likely employs features such as drop-down menus or data validation to create a user-friendly interface, enabling viewers to customize the displayed information according to their needs. This flexibility makes it a powerful tool for analyzing trends, identifying patterns, and making data-driven decisions. By using Google Spreadsheets, the chart benefits from being easily shareable and accessible, facilitating collaboration and communication among team members or stakeholders.</p>
 
@@ -190,25 +191,72 @@ In the final sections, the visualization summarizes the key findings and recomme
 <h2>Steps:</h2>
 <ol>
 	<li>Renamed the blank column “SALES_REP_FULLNAME”.</li>
-	<li>To populate the values in column B, “textjoin” function was used.</li>
+	<li>To populate the values in column B, the “textjoin” function was used.</li>
 	<li>To paste the function vertically, drag the little + sign at the end of the select textbox down. Values should automatically appear.</li>
-	<li>To generate a data table of revenue generated per sale rep from a dropdown menu, the data validation tool was used.</li>
-	<li>Select an empty cell, then menu panel — data — data validation — “add rule” — criteria = “dropdown from a range” — range should be the fullname column — under “if data is invalid”, select “show a warning” option — Done. </li>
+	<li>To generate a data table of revenue generated per sales rep from a dropdown menu, the data validation tool was used.</li>
+	<li>Select an empty cell, then menu panel — data — data validation — “add rule” — criteria = “dropdown from a range” — range should be the full name column — under “if data is invalid”, select “show a warning” option — Done. </li>
 	<li>A dropdown with a list of names is now created.</li>
-	<li>To dynamically get the information about the amount of revenue that specific sales representative generated in the months of September and October, the sumif function was used.</li>
+	<li>To dynamically get the information about the amount of revenue that a specific sales representative generated in September and October, the sumif function was used.</li>
 	<li>For September only entire rows 2 - 9 were selected as the data range.</li>
 	<li>For October only entire rows 10 - 16 were selected as the data range.</li>
 	<li>The criteria for the function should be set to the value selected in the dropdown menu that was created previously.</li>
 	<li>For the sum_range, select the revenue column, and range from only that given month.</li>
 	<li>Changed the datatype to currency as the values populate when a new rep is selected from the dropdown menu. 
-	<li>To create the dynamic chart, select the columns “SALES_REP_FULLNAME”, “SEPTEMBER”, and “OCTOBER”, navigate to menu panel — insert — chart — Google will automatically generate a column chart. </li>
+	<li>To create the dynamic chart, select the columns “SALES_REP_FULLNAME”, “SEPTEMBER”, and “OCTOBER”, navigate to the menu panel — insert — chart — Google will automatically generate a column chart. </li>
 <li>The x-axis name will automatically change each time a different name is selected from the dropdown menu.</li>
-<li>Resized chart, added data labels, and edited the name of the chart.</li>
+<li>Resized chart, added data labels and edited the name of the chart.</li>
 </ol>
 
 <h2>Task 5 - Sparklines</h2>
 
-<img src="">Task 5 - Sparklines</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Task%205.1%20-%20Sparklines.png">Task 5 - Sparklines Overall</a>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Task%205.2%20-%20Sparklines.png">Task 5 - Sparklines Bar Chart</a>
 
 <h2>Description:</h2>
-<p></p>
+
+<p>The image "Task 5.1 - Sparklines" from the Car Sales Project, located in the Google Spreadsheets section, showcases the use of sparklines to visualize trends in car sales data. Sparklines are small, in-cell charts that provide a clear and concise view of data patterns within the context of a larger dataset. This particular image likely demonstrates how sparklines can be applied to display changes in sales over a specific period, allowing viewers to quickly assess performance trends such as increases or decreases in car sales.</p>
+
+<p>Sparklines are a useful tool in spreadsheets for summarizing data without needing larger, more complex visualizations. In this case, the data presented likely involves car sales figures over a series of months, with each sparkline representing sales trends for individual car models, regions, or other relevant categories. By including sparklines, the project emphasizes a visually efficient method for analyzing performance over time, making it easier to spot patterns such as growth, decline, or stability in sales metrics. This approach allows users to quickly interpret data, supporting informed decision-making in car sales analysis.</p>
+
+<h2>Steps:</h2>
+<ol>
+	<li>The data for this spreadsheet is taken from sheet 1 titled “Car Sales - Database”.</li>
+	<li>A pivot table is created using the columns titled “Product line” for the rows, and “Month ID” for the columns (when selecting this value for columns, the table will return an error, unselect “show totals” to fix the error), and “Quantity Ordered” for the values. The location of the Pivot table is selected for the sheet titled “Task 5 - Sparklines”.</li>
+	<li>Select any blank cell at the end of the row that you wish to use from the Pivot Table and type the formula: “=sparkline(data range, {“charttype, “column”; “highcolor”, “color choice”; “lowcolor”, “color choice”})”. This will return a value for a single row. In this case, it will return a single value for the product line: “Classic Cars”. Highcolor condition will return the highest value column within the selected series in the selected color. Lowcolor condition will return the lowest value column within the selected series in the selected color. </li>
+	<li>To paste the function vertically, drag the little + sign at the end of the select textbox down. Values should automatically appear.</li>
+	<li>By default, any empty cell within the selected data range for a given sparkline, is ignored. To avoid this, just simply add to the formula: “empty”, “zero” conditions. This means where there is an empty field, the chart will display a zero. Reference the formula column in column O for more details. </li>
+	<li>To create a bar sparkline, copy and paste a copy of the pivot table into an empty cell within the same sheet. Remove the column value or “Month ID” and the “grandtotal” row from the copied Pivot table. </li>
+	<li>Select any blank cell at the end of the row that you wish to use from the copied Pivot Table and type the formula: “=sparkline(datarange, {“charttype, “bar”; “highcolor”, “max”, highest value})”.</li>
+	<li> To paste the function vertically, drag the little + sign at the end of the select textbox down. Values should automatically appear.</li>
+</ol>
+
+<h2>Car Sales Dashboard</h2>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Car%20Sales%20-%202019%20Dashboard.png">Car Sales Dashboard</a>
+
+<h2>Description:</h2>
+
+<p>The "Car Sales - 2019 Dashboard" visualizes key metrics of car sales during the first quarter of 2019 using Google Spreadsheets. The dashboard presents an overview of car sales performance through several charts and tables, providing a comprehensive breakdown of sales data by model, region, and sales trends over time.</p>
+
+<p>The first chart showcases sales figures for various car models, enabling a comparison of their popularity in different regions. This insight helps identify high-performing and low-performing models. Another element of the dashboard includes a time-based line chart, which tracks monthly sales performance, highlighting peaks and dips throughout the quarter.</p> 
+
+<p>Additionally, the dashboard uses conditional formatting to differentiate between regions and sales outcomes, improving the overall readability. Key performance indicators (KPIs), such as total sales revenue and unit sales, are also featured prominently to give decision-makers quick insights.</p>
+
+<p>This dashboard effectively leverages Google Sheets' data visualization tools to present detailed sales trends, regional breakdowns, and model comparisons, providing a valuable resource for analyzing and improving car sales strategies.</p>
+
+<br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Car%20Sales%20-%202019%20Quarter%201%20Dashboard.png">Car Sales Dashboard Quarter 1 (using slicers)</a>
+
+<h2>Description:</h2>
+
+<p>The dashboard features various types of charts, including bar and line charts, to showcase trends in sales over time and highlight the best-performing car models and sales reps. Regional sales figures are presented clearly, allowing for quick analysis of which areas saw the most growth. The use of conditional formatting and color-coded visuals enhances readability and emphasizes key data points such as top-selling models and areas with declining sales.</p>
+
+<p>The dashboard’s interactive components, such as filters or slicers, enable users to explore the data more deeply by focusing on specific regions or car types. Overall, this project serves as a practical tool for understanding the car sales market dynamics during the first quarter of 2019, making it a valuable resource for decision-makers in the automotive industry.</p>
+
+<br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Pivot%20Tables.png"><br>Pivot Tables used to create Car Sales Dashboard</a>
+
+
