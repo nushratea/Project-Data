@@ -38,7 +38,7 @@ Overall, this dashboard serves as a dynamic tool for exploring the vast and vari
 
 <h2>A New Distribution Center - a Story</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Tableau%20Story/Distribution%20Story.png">A New Distribution Center - a Story</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Tableau/A%20New%20Distribution%20Center%20-%20a%20Story/Distribution%20Story.png">A New Distribution Center - a Story</a>
 
 <li>Workbook Name: A New Distribution Center - a Story</li>
 <li>Dataset: SuperStore Dataset</li>
