@@ -58,9 +58,9 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h2>Car Sales Database</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Car%20Sales%20Database%20p1.png">Car Sales Database Page 1</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Car%20Sales%20Database%20p1.png">Car Sales Database Page 1</a>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Car%20Sales%20Database%20p2.png">Car Sales Database Page 2</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Car%20Sales%20Database%20p2.png">Car Sales Database Page 2</a>
 
 <p>
 
@@ -75,7 +75,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h2>Task 2 - Duplicates, Vlookup, P - Worksheet</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Task%202%20-%20Duplicates%2C%20Vlookup%2C%20P.png">Task 2 - Duplicates, Vlookup, P - Worksheet</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Task%202%20-%20Duplicates%2C%20Vlookup%2C%20P.png">Task 2 - Duplicates, Vlookup, P - Worksheet</a>
 
 <h2>Description:</h2>
 <p>In the context of data analysis, managing and organizing large datasets is crucial for generating meaningful insights. This specific task from the Car Sales Project focuses on utilizing Google Sheets to handle common data management challenges, such as identifying duplicates and using lookup functions to streamline data integration. These techniques are especially relevant in scenarios where multiple datasets need to be cross-referenced or when data integrity is paramount.</p>
@@ -93,7 +93,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h3>Creating a Pivot Table:</h3>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Pivot%20Table.png">Pivot Table: A Count of the Number of Products Sold Per Country</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Pivot%20Table.png">Pivot Table: A Count of the Number of Products Sold Per Country</a>
 
 <ol>
     <li value="5">Menu panel — insert — pivot table — data range (current table) — existing  sheet — create (P. table will be inserted)</li>
@@ -105,7 +105,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h2>Task 3 - Basic Charts</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Task%203%20-%20Basic%20Charts.png">Task 3 - Basic Charts</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Task%203%20-%20Basic%20Charts.png">Task 3 - Basic Charts</a>
 
 <h2>Description:</h2>
 <p>The image titled "Task 3 - Basic Charts" from "Car Sales Project" in Google Spreadsheets showcases a series of basic yet informative charts designed to visualize car sales data. The charts include bar charts, line graphs, or pie charts, each representing different aspects of the sales data, such as sales figures by model, sales trends over time, or market share distribution among various brands.</p>
@@ -114,7 +114,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <p>Overall, this visual representation aids in understanding the car sales data, facilitating data-driven decision-making. It demonstrates how basic charts can effectively convey complex information, making it accessible and actionable for stakeholders.</p>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Donut%20Chart.png">Donut Chart: Presents Total Sales Per Product </a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Donut%20Chart.png">Donut Chart: Presents Total Sales Per Product </a>
 
 <h2>Steps:</h2>
 <ol>
@@ -126,7 +126,7 @@ In the final sections, the visualization summarizes the key findings and recomme
     <li>Resized chart as needed, changed chart type to donut chart,  and changed   chart title.</li>
  </ol>
 
- <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Combo%20Chart.png">Combo Chart: Units sold Per Month and the Revenue Generated Every Month</a>
+ <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Combo%20Chart.png">Combo Chart: Units sold Per Month and the Revenue Generated Every Month</a>
 
 <h2>Steps:</h2>
 <ol>
@@ -141,7 +141,7 @@ In the final sections, the visualization summarizes the key findings and recomme
    <li> The X-axis is the monthly number of units sold.</li>
  </ol> 
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Area%20Chart.png">Area Chart: A Comparison of Units Sold and the Revenue Generated Each Month</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Area%20Chart.png">Area Chart: A Comparison of Units Sold and the Revenue Generated Each Month</a>
 
 <ol>
    <li value="10">Created an area chart using the same three columns as well ( “Month_ID”, “Sales_units” and “Revenue” columns).</li>
@@ -152,7 +152,7 @@ In the final sections, the visualization summarizes the key findings and recomme
    <li> The X-axis is the monthly number of units sold.</li>
 </ol>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Geo%20Chart.png">Geo Chart: Number of Orders Per Country</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Geo%20Chart.png">Geo Chart: Number of Orders Per Country</a>
 
 <h2>Steps:</h2>
 <ol>
@@ -163,7 +163,7 @@ In the final sections, the visualization summarizes the key findings and recomme
   <li>Resized chart as needed.</li>
 </ol>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Gauge%20Chart.png">Gauge Chart: Revenue Generated Per Quarter</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Gauge%20Chart.png">Gauge Chart: Revenue Generated Per Quarter</a>
 
 <h2>Steps:</h2>
 <ol>
@@ -178,7 +178,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h2>Task 4 - Dynamic Charts</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Task%204%20-%20Dynamic%20Charts.png">Task 4 - Dynamic Charts: Revenue Generated by Sales Rep. September vs. October</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Task%204%20-%20Dynamic%20Charts.png">Task 4 - Dynamic Charts: Revenue Generated by Sales Rep. September vs. October</a>
 
 <h2>Description:</h2>
 
@@ -209,9 +209,9 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h2>Task 5 - Sparklines</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Task%205.1%20-%20Sparklines.png">Task 5 - Sparklines Overall</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Task%205.1%20-%20Sparklines.png">Task 5 - Sparklines Overall</a>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Task%205.2%20-%20Sparklines.png">Task 5 - Sparklines Bar Chart</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Task%205.2%20-%20Sparklines.png">Task 5 - Sparklines Bar Chart</a>
 
 <h2>Description:</h2>
 
@@ -233,7 +233,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <h2>Car Sales Dashboard</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Car%20Sales%20-%202019%20Dashboard.png">Car Sales Dashboard</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Car%20Sales%20-%202019%20Dashboard.png">Car Sales Dashboard</a>
 
 <h2>Description:</h2>
 
@@ -247,7 +247,7 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <br>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Car%20Sales%20-%202019%20Quarter%201%20Dashboard.png">Car Sales Dashboard Quarter 1 (using slicers)</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Car%20Sales%20-%202019%20Quarter%201%20Dashboard.png">Car Sales Dashboard Quarter 1 (using slicers)</a>
 
 <h2>Description:</h2>
 
@@ -257,6 +257,6 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <br>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Car%20Sales%20Project%20-%20Google%20Spreadsheets/Pivot%20Tables.png"><br>Pivot Tables used to create Car Sales Dashboard</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Pivot%20Tables.png"><br>Pivot Tables used to create Car Sales Dashboard</a>
 
 
