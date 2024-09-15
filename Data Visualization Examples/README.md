@@ -1,7 +1,7 @@
 <h1>A World of Visualization</h1>
 <h1>Understanding Data with Tableau</h1>
 
-<p>This GitHub repository, titled "Data Visualization Examples," showcases various data visualization techniques using different tools (such as Tableau and Google Spreadsheets) and datasets. The README.md file introduces the project, highlighting the purpose and scope of the visualizations included. The repository is designed to demonstrate how complex data can be transformed into meaningful insights through effective visual representations.
+<p>This GitHub repository, titled "Data Visualization Examples," showcases various data visualization techniques using different tools (such as Tableau, Google Spreadsheets, R Language, etc.) and datasets. The README.md file introduces the project, highlighting the purpose and scope of the visualizations included. The repository is designed to demonstrate how complex data can be transformed into meaningful insights through effective visual representations.
 
 Each example within the repository is carefully curated to illustrate specific aspects of data visualization, such as chart types, color schemes, and interactivity. The visualizations cover various topics, providing practical applications that can be used as references or learning resources for those interested in data analytics and visualization.
 
@@ -259,4 +259,5 @@ In the final sections, the visualization summarizes the key findings and recomme
 
 <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Google%20Spreadsheets/Pivot%20Tables.png"><br>Pivot Tables used to create Car Sales Dashboard</a>
 
+<h1>Understanding Data with R Language</h1>
 
