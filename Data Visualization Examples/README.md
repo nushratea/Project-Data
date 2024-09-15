@@ -5,13 +5,13 @@
 
 Each example within the repository is carefully curated to illustrate specific aspects of data visualization, such as chart types, color schemes, and interactivity. The visualizations cover various topics, providing practical applications that can be used as references or learning resources for those interested in data analytics and visualization.
 
-Additionally, the README.md file includes instructions on how to access and interact with the visualizations, making it easy for users to explore the examples and understand the methodologies behind them. For a list of all available workbooks, please visit <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
+Additionally, the README.md file includes instructions on accessing and interacting with the visualizations, making it easy for users to explore the examples and understand the methodologies behind them. For a list of all available workbooks, please visit <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
 
 <h2>CO2 Emission by Year</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/CO2%20Emission%20Across%20Years/CO2%20Emission%20Across%20Years.png">CO2 Emission Across Years</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Tableau/CO2%20Emission%20Across%20Years/CO2%20Emission%20Across%20Years.png">CO2 Emission Across Years</a>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/CO2%20Emission%20Across%20Years/CO2%20Emission%20by%20Year2000.png">CO2 Emission for Year 2000</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Tableau/CO2%20Emission%20Across%20Years/CO2%20Emission%20by%20Year2000.png">CO2 Emission for Year 2000</a>
 
 <li>Workbook Name: CO2 Emission by Year</li>
 <li>Dataset: Exported from Excel Worksheet CO2 Emissions, Population, Energy, and GDP</li>
@@ -22,7 +22,7 @@ Additionally, the README.md file includes instructions on how to access and inte
 
 <h2>AirBnB NYC Listings Dashboard</h2>
 
-<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/AirBnB%20NYC%20Listings/AirBnB%20NYC%20Listings%20Data%20Exploration%20Dashboard.png">AirBnB NYC Listings Dashboard</a>
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Tableau/AirBnB%20NYC%20Listings/AirBnB%20NYC%20Listings%20Data%20Exploration%20Dashboard.png">AirBnB NYC Listings Dashboard</a>
 
 <li>AirBnB NYC Listings Data Exploration Dashboard</li>
 <li>Dataset: Airbnb Dataset</li>
@@ -44,9 +44,9 @@ Overall, this dashboard serves as a dynamic tool for exploring the vast and vari
 <li>Dataset: SuperStore Dataset</li>
 <li>Link: <a href="https://public.tableau.com/app/profile/nushrate.ahmed/viz/ANewDistributionCenter-aStory/Story1#2">A New Distribution Center - a Story</a></li><br>
 
-<p>The Tableau visualization titled "A New Distribution Center - a Story" offers a comprehensive analysis aimed at evaluating the potential for establishing a new distribution center. This data-driven story is structured to guide stakeholders through key metrics and insights essential for making informed decisions about site selection and operational feasibility.
+<p>The Tableau visualization titled "A New Distribution Center - a Story" offers a comprehensive analysis aimed at evaluating the potential for establishing a new distribution center. This data-driven story is structured to guide stakeholders through key metrics and insights for making informed decisions about site selection and operational feasibility.
 
-The visualization begins by presenting a high-level overview of the current distribution network, highlighting existing centers and their geographic coverage. By analyzing key performance indicators (KPIs) such as shipping times, transportation costs, and customer satisfaction, the visualization identifies gaps and inefficiencies in the current network.
+The visualization begins by presenting a high-level overview of the current distribution network, highlighting existing centers and their geographic coverage. The visualization identifies gaps and inefficiencies in the current network by analyzing key performance indicators (KPIs) such as shipping times, transportation costs, and customer satisfaction.
 
 One of the critical features of this Tableau story is its ability to filter and segment data based on various criteria, such as region, product type, and customer demand. This functionality allows users to explore different scenarios and understand how different factors impact the overall efficiency and profitability of the proposed distribution center.
 
