@@ -1,0 +1,141 @@
+library(rvest) #popular web scraping package for R.
+library(httr) #library that allows users to get HTML pages by sending HTTP GET requests
+
+#a simple HTML document in a character variable
+simple_html_text <- "
+<html>
+    <body>
+        <p>This is a test html page</p>
+    </body>
+</html>"
+
+#creating the root html node by reading the simple HTML string
+root_node <- read_html(simple_html_text)
+root_node
+# {html_document}
+# <html>
+#   [1] <body>\n        <p>This is a test html page</p>\n    </body>
+
+#reading a live html page from the web
+ibm_html_node <- read_html("http://www.ibm.com")
+ibm_html_node
+# {html_document}
+# <html lang="en">
+#   [1] <head>\n<meta http-equiv="Content-Type" content="text/html ...
+# [2] <body class="content-page page basicpage publish" id="cont ...
+# #downloading the R homepage and saving it to an HTML file locally calling it r.html
+# download.file('https://www.r-project.org', destfile = 'r.html')
+
+#creating a html_node from the local r.html file
+html_node <- read_html('r.html')
+html_node
+# {html_document}
+# <html lang="en">
+#   [1] <head>\n<meta http-equiv="Content-Type" content="text/html ...
+# [2] <body>\n    <div class="container page">\n      <div class ...
+
+#extracting data from html pages
+simple_html_text <- "
+<html>
+    <body>
+        <p style=\"color:red;\">This is a test html page</p>
+    </body>
+</html>"
+
+root_node <- read_html(simple_html_text)
+root_node
+# {html_document}
+# <html>
+#   [1] <body>\n        <p style="color:red;">This is a test html  ...
+
+url <- 'https://www.r-project.org'
+html_node <- read_html('r.html')
+
+#getting the image node using its root node
+img_node <- html_node(html_node, "img")
+#getting the "src" attribute of img node, representing the image location
+img_relative_path <- html_attr(img_node, "src")
+
+img_relative_path
+#[1] "/Rlogo.png"
+
+#pasting img_relative_path with 'https://www.r-project.org'
+image_path <- paste(url, img_relative_path, sep="")
+
+#using GET request to get the image
+image_response<-GET(image_path)
+
+#parsing the body from the response as bytes
+image <- content(image_response, "raw")
+
+#writing the bytes to a png file
+writeBin(image, "r.png")
+table_url <- "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/HTMLColorCodes.html"
+root_node <-read_html(table_url)
+table_node <- html_node(root_node, "table")
+table_node
+{html_node}
+# <table border="1" class="main-table">
+#   [1] <tr>\n<td>Number </td>\n      <td>Color</td>\n      <td>C ...
+# [2] <tr>\n<td>1</td>\n      <td style="background:lightsalmon ...
+#  [3] <tr>\n<td>2</td>\n      <td style="background:salmon;"> < ...
+#  [4] <tr>\n<td>3</td>\n      <td style="background:darksalmon; ...
+# [5] <tr>\n<td>4</td>\n      <td style="background:lightcoral; ...
+#  [6] <tr>\n<td>5</td>\n      <td style="background:coral;"> </ ...
+#  [7] <tr>\n<td>6</td>\n      <td style="background:tomato;"> < ...
+#  [8] <tr>\n<td>7</td>\n      <td style="background:orangered;" ...
+#  [9] <tr>\n<td>8</td>\n      <td style="background:gold;"> </t ...
+# [10] <tr>\n<td>9</td>\n      <td style="background:orange;"> < ...
+# [11] <tr>\n<td>10</td>\n      <td style="background:darkorange ...
+# [12] <tr>\n<td>11</td>\n      <td style="background:lightyello ...
+# [13] <tr>\n<td>12</td>\n      <td style="background:lemonchiff ...
+# [14] <tr>\n<td>13</td>\n      <td style="background:papayawhip ...
+# [15] <tr>\n<td>14</td>\n      <td style="background:moccasin;" ...
+# [16] <tr>\n<td>15</td>\n      <td style="background:peachpuff; ...
+# [17] <tr>\n<td>16</td>\n      <td style="background:palegolden ...
+# [18] <tr>\n<td>17</td>\n      <td style="background:khaki;"> < ...
+# [19] <tr>\n<td>18</td>\n      <td style="background:darkkhaki; ...
+# [20] <tr>\n<td>19</td>\n      <td style="background:yellow;">  ...
+# ...
+
+#extracting content from table_node and convert the data into a dataframe
+color_data_frame <- html_table(table_node)
+
+head(color_data_frame)
+# A tibble: 6 × 5
+#   X1     X2      X3          X4              X5                 
+# <chr>  <chr>   <chr>       <chr>           <chr>              
+#   1 Number "Color" Color Name  Hex Code#RRGGBB Decimal Code(R,G,B)
+# 2 1      ""      lightsalmon #FFA07A         rgb(255,160,122)   
+# 3 2      ""      salmon      #FA8072         rgb(250,128,114)   
+# 4 3      ""      darksalmon  #E9967A         rgb(233,150,122)   
+# 5 4      ""      lightcoral  #F08080         rgb(240,128,128)   
+# 6 5      ""      coral       #FF7F50         rgb(255,127,80)    
+
+names(color_data_frame)
+#[1] "X1" "X2" "X3" "X4" "X5"
+
+#converting the first row as column names
+names(color_data_frame) <- as.matrix(color_data_frame[1, ])
+
+#then removing the first row
+data_frame <- color_data_frame[-1, ]
+
+# # A tibble: 6 × 5
+# Number Color `Color Name` `Hex Code#RRGGBB`
+# <chr>  <chr> <chr>        <chr>            
+# 1 1      ""    lightsalmon  #FFA07A          
+# 2 2      ""    salmon       #FA8072          
+# 3 3      ""    darksalmon   #E9967A          
+# 4 4      ""    lightcoral   #F08080          
+# 5 5      ""    coral        #FF7F50          
+# 6 6      ""    tomato       #FF6347          
+# # ℹ 1 more variable: `Decimal Code(R,G,B)` <chr>
+
+head(data_frame)
+
+names(color_data_frame)
+
+# [1] "Number"              "Color"              
+# [3] "Color Name"          "Hex Code#RRGGBB"    
+# [5] "Decimal Code(R,G,B)"
