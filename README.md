@@ -228,6 +228,6 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 <h2>Contact</h2>
 
 <ul>
-  <li>LinkedIn: <a href="www.linkedin.com/in/nushrateahmed">www.linkedin.com/in/nushrateahmed</a></li>
+  <li>LinkedIn: <a href="www.linkedin.com/in/nushrateahmed">www.linkedin.com/in/nushrateahmed</a></li> 
   <li>E-mail: <a href="mailto:parishaahmed100@gmail.com">parishaahmed100@gmail.com</a></li>
 </ul>
