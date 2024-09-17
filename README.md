@@ -35,6 +35,11 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
   <li>Developed a responsive portfolio using the WordPress platform and creative content.</li>
 </ul>
 
+<h4>Tableau Viz Portfolio - <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">https://public.tableau.com/app/profile/nushrate.ahmed/vizzes</a></h4>
+<ul>
+  <li>Protfolio showcasing Tableau skills.</li>
+</ul>
+
 <h2>Education</h2>
 
 <h4>George Mason University, Fairfax VA</h4>
