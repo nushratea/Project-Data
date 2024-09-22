@@ -14,20 +14,20 @@ library(tidymodels)
 library(rlang)
 library(tidyverse)
 
-# Task 1: Download and Unzip NOAA Weather Dataset (1 pts) 
+# Task 1: Download and Unzip NOAA Weather Dataset 
 
 url<-'https://dax-cdn.cdn.appdomain.cloud/dax-noaa-weather-data-jfk-airport/1.1.4/noaa-weather-sample-data.tar.gz' #url where the file is loaded
 download.file(url, destfile = "noaa-weather-sample-data.tar.gz") #download the file
 untar("noaa-weather-sample-data.tar.gz") #untar the file to get the cvs file only
 
-# Task 2: Read dataset into the project (1 pts) 
+# Task 2: Read dataset into the project 
 
 weather_data <- read_csv("downloads/noaa-weather-sample-data/jfk_weather_sample.csv", #location of the csv file
                          )
 head(weather_data) # display the first few rows of the dataframe
 glimpse(weather_data) # different column data types
 
-# Task 3: Remove redundant columns (2 pt) 
+# Task 3: Remove redundant columns 
 
 weather_dataset<-weather_data%>%
   select(HOURLYRelativeHumidity,
@@ -38,7 +38,7 @@ weather_dataset<-weather_data%>%
 
 head(weather_dataset, n=10) # show the first 10 rows of this new dataframe
 
-# Task 4: Clean up columns (2 pt) 
+# Task 4: Clean up columns  
 
 unique(weather_dataset$HOURLYPrecip) # inspect the unique values present in the column HOURLYPrecip
 
@@ -52,7 +52,7 @@ weather_df <- weather_dataset %>%
 
 unique(weather_df$HOURLYPrecip) # check whether unique values have been replaced or not
  
-# Task 5: Convert columns to numerical types (2 pts) 
+# Task 5: Convert columns to numerical types 
 
 glimpse(weather_df) # check the types of the HOURLYPrecip column
 
@@ -61,7 +61,7 @@ cleaned_weather_df<-weather_df %>%
 
 glimpse(cleaned_weather_df) # cleaned data types for the HOURLYPrecip column
  
-# Task 6: Rename data columns (1 pts) 
+# Task 6: Rename data columns  
 
 # rename the following columns as:
 # 
@@ -80,7 +80,7 @@ weather_renamed <- cleaned_weather_df%>%
 
 head(weather_renamed)
 
-# Task 7: Exploratory Data Analysis (2 pts) 
+# Task 7: Exploratory Data Analysis  
 
 # first, split the data into a training and testing set. 
 # splitting a dataset is done randomly, so to have reproducible results set the seed = 1234
@@ -129,7 +129,7 @@ ggplot(weather_training, aes(x = station_pressure)) +
   theme_minimal() +
   labs(title = "Histogram of Station Pressure", x = "Station Pressure", y = "Count")
 
-# Task 8: Linear Regression (3 pts) 
+# Task 8: Linear Regression 
 
 # create simple linear regression models where precip is the response variable and each of 
 # relative_humidity, dry_bulb_temp_f,wind_speed or station_pressure will be a predictor variable, 
@@ -166,7 +166,7 @@ ggplot(weather_training, aes(x = station_pressure, y = precip)) +
   geom_smooth(method = "lm", se = FALSE, color = "red") +
   labs(title = "Precipitation vs Station Pressure")
 
-# Task 9: Improve the Model (3 pts)
+# Task 9: Improve the Model 
 
 # create at least two more models, each model should use at least one of the different techniques:
  
@@ -200,7 +200,7 @@ calculate_poly_mse
 summary(model_6)$r.squared
 
  
-# Task 10: Find Best Model (3 pts)
+# Task 10: Find Best Model 
 
 # compare the regression metrics of each model from section 9 to find the best model overall. To do this,
 
