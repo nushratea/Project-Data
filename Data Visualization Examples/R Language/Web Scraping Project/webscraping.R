@@ -1,13 +1,13 @@
 library(rvest)
 
-#Task 1: Get a COVID-19 pandemic Wiki page using HTTP request (2 pts) 
+#Task 1: Get a COVID-19 pandemic Wiki page using HTTP request 
 
 covid_wiki<-'https://en.wikipedia.org/wiki/COVID-19_testing'
 wiki_page<-GET(covid_wiki)
 wiki_page
 
 
-#Task 2: Extract COVID-19 testing data table from the wiki HTML page (2 pts)
+#Task 2: Extract the COVID-19 testing data table from the wiki HTML page 
 
 library(tidyverse)
 library(dplyr)
@@ -18,13 +18,13 @@ covid_data_table_node<-html_nodes(covid_data_root_node, "table")[[3]] #third tab
 covid_dataframe<-html_table(covid_data_table_node, fill = TRUE)
 print(covid_dataframe) # Print data frame
 
-#Task 3: Pre-process and export the extracted data frame (2 pt)
+#Task 3: Pre-process and export the extracted data frame 
 summary(covid_dataframe) # Summary of the processed data frame
 write.csv(covid_dataframe, "covid_testing_data.csv", row.names = FALSE) # Export the data frame to a csv file
 head(covid_dataframe)
 View(covid_dataframe) # View dataframe
 
-# Task 4: Get a subset of the extracted data frame (2 pt) 
+# Task 4: Get a subset of the extracted data frame  
 covid_dataset<-read.csv("covid_testing_data.csv", header=TRUE, sep = ",") # Read covid_data_frame_csv from the csv file
 colnames(covid_dataset) #colnames in covid_dataset
 covid_data_sample<- covid_dataset[5:10, c("Country.or.region", "Confirmed.cases.")] # Get the 5th to 10th rows, with two "country" "confirmed" columns
@@ -39,7 +39,7 @@ covid_data_sample_copy <- covid_data_sample %>%
 
 print(covid_data_sample_copy) # Print the new data sample table
 
-# Task 5: Calculate worldwide COVID testing positive ratio (2 pts) 
+# Task 5: Calculate worldwide COVID testing positive ratio 
 
 library(tidyverse) # Loading tidyverse
 library(skimr) # Loading skimr
@@ -54,9 +54,7 @@ data_summary <- covid_dataset %>%
 
 print(data_summary)
 
-# Task 6: Get a sorted name list of countries that reported their testing data (2 pts)
-
-# Task 6: Get a sorted name list of countries that reported their testing data (2 pts)
+# Task 6: Get a sorted name list of countries that reported their testing data 
 
 library(tidyverse)
 library(dplyr)
@@ -79,7 +77,7 @@ countries_ZtoA <- sorted_countries %>%
 
 print(countries_ZtoA) # Print the sorted Z to A list
 
-# Task 7: Identify country names with a specific pattern (2 pts)
+# Task 7: Identify country names with a specific pattern 
 
 # Use the regular expression 'United.+' to match country names that start with 'United'
 matched_countries <- covid_dataframe %>%
@@ -89,7 +87,7 @@ matched_countries <- covid_dataframe %>%
 # Print the matched country names
 print(matched_countries)
 
-# Task 8: Pick two countries you are interested in, and then review their testing data (2 pts) 
+# Task 8: Pick two countries you are interested in, and then review their testing data 
 
 country_interest <- c("United States", "Bangladesh")
   
@@ -103,7 +101,7 @@ selected_country_data <- covid_dataframe %>%
   
 print(selected_country_data)
 
-# Task 9: Compare which one of the selected countries has a larger ratio of confirmed cases to population (2 pts) 
+# Task 9: Compare which one of the selected countries has a larger ratio of confirmed cases to population 
 
 View(covid_dataframe) # Viewing column names
 
@@ -125,7 +123,7 @@ if (Bangladesh_ratio > United_States_ratio ) {
   print("United States has a higher confirmed cases to population ratio.")
 }
 
-# Task 10: Find countries with confirmed cases to population ratio rate less than a threshold (2 pts) 
+# Task 10: Find countries with confirmed cases-to-population ratio rate less than a threshold 
 
 countries_threshold_lessthan_one<-subset(covid_dataframe, subset = `Confirmed /population,%` < 1)
 
