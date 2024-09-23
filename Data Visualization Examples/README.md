@@ -1,4 +1,8 @@
 <h1>A World of Visualization</h1>
+
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/datavisualization.gif" style="width:1050px;height:750px;"></a>
+
 <h1>Understanding Data with Tableau</h1>
 
 <p>This GitHub repository, titled "Data Visualization Examples," showcases various data visualization techniques using different tools (such as Tableau, Google Spreadsheets, R Language, etc.) and datasets. The README.md file introduces the project, highlighting the purpose and scope of the visualizations included. The repository is designed to demonstrate how complex data can be transformed into meaningful insights through effective visual representations.
