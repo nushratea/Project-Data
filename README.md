@@ -6,7 +6,7 @@
 
 Hello there! Even thou, I do not know of your name, it is a pleasure to have you on my readme Git Hub. 
 
-My name is Nushrate Ahmed and I am an accomplished Data Analyst with three years of extensive experience analyzing and interpreting complex data sets to drive informed and strategic business decisions. 
+My name is Nushrate Ahmed and I am an accomplished Data Analyst with six years of extensive experience analyzing and interpreting complex data sets to drive informed and strategic business decisions. 
 My analytical skills complement my background as a proficient Web Developer, where I have honed my expertise in Project Management, Customer Service, Microsoft Office, Leadership, and Collaborative Teamwork.
 
 I hold a Bachelor's degree in Information Technology, enriched by a minor in Psychology. 
