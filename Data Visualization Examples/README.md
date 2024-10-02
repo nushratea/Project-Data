@@ -3,13 +3,13 @@
 
 <img src="https://github.com/nushratea/Project-Data/blob/main/datavisualization.gif" style="width:1050px;height:750px;"></a>
 
-<h1>Understanding Data with Tableau</h1>
-
 <p>This GitHub repository, titled "Data Visualization Examples," showcases various data visualization techniques using different tools (such as Tableau, Google Spreadsheets, R Language, etc.) and datasets. The README.md file introduces the project, highlighting the purpose and scope of the visualizations included. The repository is designed to demonstrate how complex data can be transformed into meaningful insights through effective visual representations.
 
-Each example within the repository is carefully curated to illustrate specific aspects of data visualization, such as chart types, color schemes, and interactivity. The visualizations cover various topics, providing practical applications that can be used as references or learning resources for those interested in data analytics and visualization.
+Each example within the repository is carefully curated to illustrate specific aspects of data visualization, such as chart types, color schemes, and interactivity. The visualizations cover various topics, providing practical applications that can be used as references or learning resources for those interested in data analytics and visualization.</p>
 
-Additionally, the README.md file includes instructions on accessing and interacting with the visualizations, making it easy for users to explore the examples and understand the methodologies behind them. For a list of all available workbooks, please visit <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
+<h1>Understanding Data with Tableau</h1>
+
+<p>This README.md file includes instructions on accessing and interacting with the visualizations, making it easy for users to explore the examples and understand the methodologies behind them. For a list of all available workbooks, please visit <a href="https://public.tableau.com/app/profile/nushrate.ahmed/vizzes">Tableau Public Homepage</a>.</p>
 
 <h2>CO2 Emission by Year</h2>
 
@@ -389,3 +389,1999 @@ and pressure. The data you will handle was collected by an NOAA weather station 
 <img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/R%20Language/Weather%20Station%20Project/Task%2010.png"></a>
 
 Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/R%20Language/Weather%20Station%20Project/weather.R">Weather Station Project</a><br>
+
+<h1>Understanding Data with Excel</h1>
+
+<h2>Scenerio</h2>
+
+<p>In this scenario you are a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department related to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any analysis on it.</p>
+
+<h2>Original Montgomery Fleet Equipment Inventory Table</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr>
+	<th title="Field #1">Department</th>
+	<th title="Field #2">Department</th>
+	<th title="Field #3">Equipment Class</th>
+	<th title="Field #4">Equipment Count</th>
+</tr></thead>
+<tbody><tr>
+<td>Board of</td>
+<td>Elections</td>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Board of</td>
+<td>Elections</td>
+<td>Off Road VehicleEquipment</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Circuit</td>
+<td>Court</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Community Engagement</td>
+<td>Cluster</td>
+<td>Pick Up  Trucks</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Community Engagement</td>
+<td>Cluster</td>
+<td>Off Road VehicleEquipment</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Community Engagement</td>
+<td>Cluster</td>
+<td>SUV</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Community Use of Public</td>
+<td>Facilities</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Community Use of Public</td>
+<td>Facilities</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Consumer</td>
+<td>Protection</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilitation</td>
+<td>Off Road VehicleEquipment</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilltation</td>
+<td>Public  Safety Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilitation</td>
+<td>Public  Safety SUV</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilitation</td>
+<td>SUV</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilitation</td>
+<td>Pick Up Trucks</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilitation</td>
+<td>Van</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilitation</td>
+<td>Sedan</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td>Correction and</td>
+<td>Rehabilitation</td>
+<td>CUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>County Executives</td>
+<td>Office</td>
+<td>Sedan</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>County Executives</td>
+<td>Office</td>
+<td>Public Safety SUV</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Economic</td>
+<td>Development</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Enviromnental</td>
+<td>Protection</td>
+<td>SUV</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td>Enviromnental</td>
+<td>Protection</td>
+<td>Sedan</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Enviromnental</td>
+<td>Protection</td>
+<td>Van</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Enviromnental</td>
+<td>Protection</td>
+<td>CUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Enviromnental</td>
+<td>Protection</td>
+<td>CUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Enviromnental</td>
+<td>Protection</td>
+<td>Medium Duty</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Enviromnental</td>
+<td>Protection</td>
+<td>Pick Up Trucks</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td>Finance</td>
+<td> </td>
+<td>Sedan</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety SUV</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety Pick Up Trucks</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety Pick Up Trucks</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety Sedan</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety Van</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>SUV</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Van</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Off Road VehicleEquipment</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Recsue</td>
+<td>Pick Up Trucks</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety CUV</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety Heavy Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Heavy Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Transit Bus</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Fire and</td>
+<td>Rescue</td>
+<td>Public Safety CUV</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>Public Safety Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>SUV</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>Public Safety Heavy Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>Off Road VehicleEquipment</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>Sedan</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>Medium Duty</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>Van</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>CUV</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Servcies</td>
+<td>Heavy Duty</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>General</td>
+<td>Services</td>
+<td>Pick Up Trucks</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>Health and Human</td>
+<td>Services</td>
+<td>CUV</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Health and Human</td>
+<td>Servcies</td>
+<td>Van</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Health and Human</td>
+<td>Services</td>
+<td>Public Safety SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Health and Human</td>
+<td>Services</td>
+<td>Sedan</td>
+<td align="right">75</td>
+</tr>
+</tbody>
+</table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%201%20Original.csv">Part 1 Original</a><br>
+
+<h2>Task 1: Save the CSV file as an XLSX file</h2>
+<p>Change the ‘Viewing’ in the ToolTip to ‘Editing ’ to save the file as an XLSX file. The file is converted when you click ‘Convert’ in the prompt.</p>
+
+<h2>Task 2: Column widths:</h2>
+<p>Sort out the widths of all columns so that the data is visible in all cells.</p>
+
+<h2>Task 3: Empty rows:</h2>
+<p>Use the Filter feature to look for blanks and remove all empty rows from the data.</p>
+
+<h2>Task 4: Duplicate records:</h2> 
+<p>Use either the Conditional Formatting or Remove Duplicates feature to look for and remove any duplicated records from the data.</p>
+
+<h2>Task 5: Spelling:</h2>
+<p>The source file data has not been checked for errors in spelling. Check for spelling mistakes in the data and fix them.</p>
+
+<h2>Task 6: Whitespace:</h2>
+<p>Use the Find and Replace feature to remove all double spaces from the data.</p>
+
+<h2>Final Task: Department names:</h2>
+<p>When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now split over two columns in the data. Use Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns.</p>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead>
+<tr>
+<th title="Field #1">Department</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Board of Elections</td></tr>
+<tr><td>Circuit Court</td></tr>
+<tr><td>Community Engagement Cluster</td></tr>
+<tr><td>Community Use of Public Facilities</td></tr>
+<tr><td>Consumer Protection</td></tr>
+<tr><td>Correction and Rehabilitation</td></tr>
+<tr><td>County Executives Office</td></tr>
+<tr><td>Economic Development</td></tr>
+<tr><td>Environmental Protection</td></tr>
+<tr><td>Finance</td></tr>
+<tr><td>Fire and Rescue</td></tr>
+<tr><td>General Services</td></tr>
+<tr><td>Health and Human Services</td></tr>
+</tbody>
+</table>
+
+<h2>Final Montgomery Fleet Equipment Inventory Table</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Department</th>
+<th title="Field #2">Equipment Class</th>
+<th title="Field #3">Equipment Count</th>
+</tr></thead>
+<tbody><tr>
+<td>Board of Elections</td>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Board of Elections</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Circuit of Court</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Community Engagement Cluster</td>
+<td>Pick Up Trucks</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Community Engagement Cluster</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Community Engagement Cluster</td>
+<td>SUV</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Community Use of Public Facilities</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Consumer Protection</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>Public Safety Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>Public Safety SUV</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>SUV</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>Pick Up Trucks</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>Van</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>Sedan</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td>Correction and Rehabilitation</td>
+<td>CUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>County Executives Office</td>
+<td>Sedan</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>County Executives Office</td>
+<td>Public Safety SUV</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Economic Development</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Environmental Protection</td>
+<td>SUV</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td>Environmental Protection</td>
+<td>Sedan</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Environmental Protection</td>
+<td>Van</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Environmental Protection</td>
+<td>CUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Environmental Protection</td>
+<td>Medium Duty</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Environmental Protection</td>
+<td>Pick Up Trucks</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Public Safety SUV</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Public Safety Pick Up Trucks</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Public Safety Sedan</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Public Safety Van</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>SUV</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Van</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Pick Up Trucks</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Public Safety CUV</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Public Safety Heavy Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Heavy Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Fire and Rescue</td>
+<td>Transit Bus</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Public Safety Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>SUV</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Public Safety Heavy Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Sedan</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Medium Duty</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Van</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>CUV</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Heavy Duty</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>General Services</td>
+<td>Pick Up Trucks</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>Health and Human Services</td>
+<td>CUV</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Health and Human Services</td>
+<td>Van</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Health and Human Services</td>
+<td>Public Safety SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Health and Human Services</td>
+<td>Sedan</td>
+<td align="right">75</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%201%20Final.csv">Part 1 Final</a><br>
+
+<h2>Scenerio</h2>
+
+<p>In this scenario you are a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department related to inventory information about their fleet of vehicles. You plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.</p>
+
+<h2>Original Montgomery Fleet Equipment Inventory Table</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Department</th>
+<th title="Field #2">Equipment Class</th>
+<th title="Field #3">Equipment Count</th>
+</tr></thead>
+<tbody><tr>
+<td>Housing and Community Affairs</td>
+<td>Pick Up Trucks</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td>Sedan</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td>Human Rights</td>
+<td>Sedan</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td>Pick Up Trucks</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td>Van</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td>Medium Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>Van</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>Heavy Duty</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>Sedan</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>Office Of Homeland Security</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>CUV</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>SUV</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>Pick Up Trucks</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>Sedan</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>Public Information Office</td>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Sedan</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Pick Up Trucks</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>SUV</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Van</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety SUV</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Medium Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Pick Up Trucks</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety Van</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety CUV</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety Sedan</td>
+<td align="right">46</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety Pick Up Trucks</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>Public Safety Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>Sedan</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>Pick Up Trucks</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>CUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>Van</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>SUV</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Pick Up Trucks</td>
+<td align="right">93</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Heavy Duty</td>
+<td align="right">248</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Transit Bus</td>
+<td align="right">379</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>SUV</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Van</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Medium Duty</td>
+<td align="right">98</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">276</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>CUV</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Sedan</td>
+<td align="right">37</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202%20Original.csv">Part 2 Original</a><br>
+
+<h2>Task 1: Format the data as a table:</h2>
+<p>Use the Format as Table option to format the data as a table.</p>
+
+<h2>Task 2: Use AutoSum to calculate values:</h2>
+<p>Use AutoSum to find the following values for column ‘C’ and record each of the values:
+<ul>
+    <li>SUM</li>
+    <li>AVERAGE</li>
+    <li>MIN</li>
+    <li>MAX</li>
+    <li>COUNT</li>
+</ul>
+</p>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/AutoSum%20Table.png"></a>
+
+<h2>Task 3: Create a Pivot Table:</h2>
+<p>Use the PivotTable feature to create a pivot table that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that the pivot table displays the sum of equipment count by department.</p>
+
+<h2>Task 4: Sort the pivot table data:</h2> 
+<p>Use the Sort By Value setting on the pivot table to sort it in descending order by the sum of equipment count.</p>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Departments</th>
+<th title="Field #2">Sum of Equipment Count</th>
+</tr></thead>
+<tbody><tr>
+<td>Transportation</td>
+<td align="right">1221</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td align="right">109</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">85</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td align="right">56</td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td align="right">35</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Human Rights</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Office Of Homeland Security</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Public Information Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Grand Total</td>
+<td align="right">1582</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202.2%20Final.csv">Task 3 & 4 View</a><br>
+
+<h2>Task 5: Make two more pivot tables the same as Task 3:</h2>
+<p>Follow the same steps you performed in Tasks 3 and 4 to create two more identical pivot tables so that you end up with 3 worksheets that contain identical pivot tables.</p>
+
+<h2>Final Task: Analyze data in the pivot table:</h2>
+<p>Use the PivotTable Fields pane to manipulate and analyze data in the two copied pivot tables as follows:
+<ul>
+    <li>In pivot table 2 add the Equipment Class field below the Department field so that the different vehicle types appear under each department with their respective counts.</li>
+    <li>Collapse all fields except the top one - Transportation</li>
+    <li>In pivot table 3 add the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle type with their respective counts.</li>
+    <li>Collapse all fields except the top one - CUV.</li>
+</ul>
+</p>
+
+<h2>Pivot 2 Table</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Departments</th>
+<th title="Field #2">Sum of Equipment Count</th>
+</tr></thead>
+<tbody><tr>
+<td>Transportation</td>
+<td align="right">1221</td>
+</tr>
+<tr>
+<td>CUV</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Heavy Duty</td>
+<td align="right">248</td>
+</tr>
+<tr>
+<td>Medium Duty</td>
+<td align="right">98</td>
+</tr>
+<tr>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">276</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">93</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td>Transit Bus</td>
+<td align="right">379</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td align="right">109</td>
+</tr>
+<tr>
+<td>CUV</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">85</td>
+</tr>
+<tr>
+<td>Medium Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Public Safety CUV</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Public Safety Pick Up Trucks</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Public Safety Sedan</td>
+<td align="right">46</td>
+</tr>
+<tr>
+<td>Public Safety SUV</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td>Public Safety Van</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td align="right">56</td>
+</tr>
+<tr>
+<td>Heavy Duty</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td align="right">35</td>
+</tr>
+<tr>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td>CUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>Medium Duty</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Public Safety Sedan</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Human Rights</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Office Of Homeland Security</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Public Information Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Grand Total</td>
+<td align="right">1582</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202.3%20Final.csv">Pivot 2 Table</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202.3%20Final.png"></a>
+
+<h2>Pivot 3 Table</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Equipment Class</th>
+<th title="Field #2">Sum of Equipment Count</th>
+</tr></thead>
+<tbody><tr>
+<td>CUV</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Heavy Duty</td>
+<td align="right">290</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">248</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td>Medium Duty</td>
+<td align="right">100</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">98</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">283</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">276</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Pick Up Trucks</td>
+<td align="right">150</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">93</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Public Safety CUV</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Public Safety Pick Up Trucks</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Public Safety Sedan</td>
+<td align="right">47</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">46</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Public Safety SUV</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">20</td>
+</tr>
+<tr>
+<td>Public Safety Van</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Sedan</td>
+<td align="right">130</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td align="right">48</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>Human Rights</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>SUV</td>
+<td align="right">90</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Office Of Homeland Security</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Transit Bus</td>
+<td align="right">379</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">379</td>
+</tr>
+<tr>
+<td>Van</td>
+<td align="right">65</td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Public Information Office</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Grand Total</td>
+<td align="right">1582</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202.4%20Final.csv">Pivot 3 Table</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202.4%20Final.png"></a>
+
+<h2>Final Montgomery Fleet Equipment Inventory Table Part 2</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Department</th>
+<th title="Field #2">Equipment Class</th>
+<th title="Field #3">Equipment Count</th>
+<th title="Field #4">FIELD4</th>
+<th title="Field #5">FIELD5</th>
+<th title="Field #6">FIELD6</th>
+</tr></thead>
+<tbody><tr>
+<td>Housing and Community Affairs</td>
+<td>Pick Up Trucks</td>
+<td align="right">21</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td>SUV</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Housing and Community Affairs</td>
+<td>Sedan</td>
+<td align="right">23</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Human Rights</td>
+<td>Sedan</td>
+<td align="right">2</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td>Pick Up Trucks</td>
+<td align="right">3</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td>Van</td>
+<td align="right">2</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Libraries</td>
+<td>Medium Duty</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>Van</td>
+<td align="right">2</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>Heavy Duty</td>
+<td align="right">42</td>
+<td> </td>
+<td>SUM</td>
+<td align="right">1582</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>SUV</td>
+<td align="right">1</td>
+<td> </td>
+<td>AVERAGE</td>
+<td align="right">32.28571429</td>
+</tr>
+<tr>
+<td>Liquor Control</td>
+<td>Sedan</td>
+<td align="right">11</td>
+<td> </td>
+<td>MIN</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Office Of Homeland Security</td>
+<td>SUV</td>
+<td align="right">1</td>
+<td> </td>
+<td>MAX</td>
+<td align="right">379</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>CUV</td>
+<td align="right">9</td>
+<td> </td>
+<td>COUNT</td>
+<td align="right">49</td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>SUV</td>
+<td align="right">27</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>Pick Up Trucks</td>
+<td align="right">24</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>Van</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Permitting Services</td>
+<td>Sedan</td>
+<td align="right">48</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Public Information Office</td>
+<td>Van</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Sedan</td>
+<td align="right">6</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Pick Up Trucks</td>
+<td align="right">5</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>SUV</td>
+<td align="right">2</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Van</td>
+<td align="right">15</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Recreation</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">7</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety SUV</td>
+<td align="right">20</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Sedan</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Medium Duty</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Pick Up Trucks</td>
+<td align="right">3</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>SUV</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety Van</td>
+<td align="right">8</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety CUV</td>
+<td align="right">4</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety Sedan</td>
+<td align="right">46</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Sheriffs Office</td>
+<td>Public Safety Pick Up Trucks</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>Public Safety Sedan</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>Van</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>SUV</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>State Attorneys Office</td>
+<td>Sedan</td>
+<td align="right">2</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>Pick Up Trucks</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>CUV</td>
+<td align="right">1</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>Van</td>
+<td align="right">11</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Technology Services</td>
+<td>SUV</td>
+<td align="right">3</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Pick Up Trucks</td>
+<td align="right">93</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Heavy Duty</td>
+<td align="right">248</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Transit Bus</td>
+<td align="right">379</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>SUV</td>
+<td align="right">53</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Van</td>
+<td align="right">32</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Medium Duty</td>
+<td align="right">98</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Off Road Vehicle Equipment</td>
+<td align="right">276</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>CUV</td>
+<td align="right">5</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+<tr>
+<td>Transportation</td>
+<td>Sedan</td>
+<td align="right">37</td>
+<td> </td>
+<td> </td>
+<td align="right"></td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202.1%20Final.csv">Final Montgomery Fleet Equipment Inventory Table Part 2</a><br>
