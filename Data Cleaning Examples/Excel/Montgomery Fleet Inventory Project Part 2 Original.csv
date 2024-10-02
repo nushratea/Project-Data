@@ -1,0 +1,50 @@
+﻿Department,Equipment Class,Equipment Count
+Housing and Community Affairs,Pick Up Trucks,21
+Housing and Community Affairs,SUV,1
+Housing and Community Affairs,Sedan,23
+Human Rights,Sedan,2
+Libraries,Pick Up Trucks,3
+Libraries,Van,2
+Libraries,Medium Duty,1
+Liquor Control,Van,2
+Liquor Control,Heavy Duty,42
+Liquor Control,SUV,1
+Liquor Control,Sedan,11
+Office Of Homeland Security,SUV,1
+Permitting Services,CUV,9
+Permitting Services,SUV,27
+Permitting Services,Pick Up Trucks,24
+Permitting Services,Van,1
+Permitting Services,Sedan,48
+Public Information Office,Van,1
+Recreation,Sedan,6
+Recreation,Pick Up Trucks,5
+Recreation,SUV,2
+Recreation,Van,15
+Recreation,Off Road Vehicle Equipment,7
+Sheriffs Office,Public Safety SUV,20
+Sheriffs Office,Sedan,1
+Sheriffs Office,Medium Duty,1
+Sheriffs Office,Pick Up Trucks,3
+Sheriffs Office,SUV,1
+Sheriffs Office,Public Safety Van,8
+Sheriffs Office,Public Safety CUV,4
+Sheriffs Office,Public Safety Sedan,46
+Sheriffs Office,Public Safety Pick Up Trucks,1
+State Attorneys Office,Public Safety Sedan,1
+State Attorneys Office,Van,1
+State Attorneys Office,SUV,1
+State Attorneys Office,Sedan,2
+Technology Services,Pick Up Trucks,1
+Technology Services,CUV,1
+Technology Services,Van,11
+Technology Services,SUV,3
+Transportation,Pick Up Trucks,93
+Transportation,Heavy Duty,248
+Transportation,Transit Bus,379
+Transportation,SUV,53
+Transportation,Van,32
+Transportation,Medium Duty,98
+Transportation,Off Road Vehicle Equipment,276
+Transportation,CUV,5
+Transportation,Sedan,37
