@@ -1,0 +1,63 @@
+Departments,Sum of Equipment Count
+Transportation,1221
+CUV,5
+Heavy Duty,248
+Medium Duty,98
+Off Road Vehicle Equipment,276
+Pick Up Trucks,93
+Sedan,37
+SUV,53
+Transit Bus,379
+Van,32
+Permitting Services,109
+CUV,9
+Pick Up Trucks,24
+Sedan,48
+SUV,27
+Van,1
+Sheriffs Office,85
+Medium Duty,1
+Pick Up Trucks,3
+Public Safety CUV,4
+Public Safety Pick Up Trucks,1
+Public Safety Sedan,46
+Public Safety SUV,20
+Public Safety Van,8
+Sedan,1
+SUV,1
+Liquor Control,56
+Heavy Duty,42
+Sedan,11
+SUV,1
+Van,2
+Housing and Community Affairs,45
+Pick Up Trucks,21
+Sedan,23
+SUV,1
+Recreation,35
+Off Road Vehicle Equipment,7
+Pick Up Trucks,5
+Sedan,6
+SUV,2
+Van,15
+Technology Services,16
+CUV,1
+Pick Up Trucks,1
+SUV,3
+Van,11
+Libraries,6
+Medium Duty,1
+Pick Up Trucks,3
+Van,2
+State Attorneys Office,5
+Public Safety Sedan,1
+Sedan,2
+SUV,1
+Van,1
+Human Rights,2
+Sedan,2
+Office Of Homeland Security,1
+SUV,1
+Public Information Office,1
+Van,1
+Grand Total,1582
