@@ -1,5 +1,3 @@
-<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FAutomation%2BDashboard&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model000001924fb8e5cc_00000000" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
-
 <h1>Nushrate Ahmed - Data Analyst Portfolio</h1>
 
 <img src="https://github.com/nushratea/Project-Data/blob/main/coding.gif" style="width:1050px;height:650px;"></a>
