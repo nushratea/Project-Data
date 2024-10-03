@@ -2385,3 +2385,11374 @@ Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/mai
 </tbody></table>
 
 Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Cleaning%20Examples/Excel/Montgomery%20Fleet%20Inventory%20Project%20Part%202.1%20Final.csv">Final Montgomery Fleet Equipment Inventory Table Part 2</a><br>
+
+<h2>Scenerio</h2>
+
+<p>As a regional manager for a chain of car dealerships you need to create some visualizations to allow you to understand your car sales and profits for each dealer.</p>
+
+<p>Create visualizations for the following captured KPI metrics</p>
+
+<h2>Original Car Sales Data Table</h2>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Year</th>
+<th title="Field #2">Month</th>
+<th title="Field #3">Date</th>
+<th title="Field #4">Model</th>
+<th title="Field #5">Dealer ID</th>
+<th title="Field #6">Quantity Sold</th>
+<th title="Field #7">Profit</th>
+</tr></thead>
+<tbody><tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">16</td>
+<td align="right">12800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">28</td>
+<td align="right">14000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">23</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>January</td>
+<td>2018-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">25</td>
+<td align="right">12500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">27</td>
+<td align="right">21600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>Feburary</td>
+<td>2018-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">25</td>
+<td align="right">12500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>March</td>
+<td>2018-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">40</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">12</td>
+<td align="right">18330</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">16</td>
+<td align="right">24440</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">29023</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">6110</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">27</td>
+<td align="right">41243</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">17</td>
+<td align="right">26010</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">33660</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">28</td>
+<td align="right">42840</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">9180</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">39</td>
+<td align="right">59670</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">16</td>
+<td align="right">24300</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">21</td>
+<td align="right">31894</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">25</td>
+<td align="right">37969</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">7594</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">36</td>
+<td align="right">54675</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">17</td>
+<td align="right">27646</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">23</td>
+<td align="right">37404</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">29</td>
+<td align="right">47161</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">9758</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">41</td>
+<td align="right">66676</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">15</td>
+<td align="right">25050</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">19</td>
+<td align="right">31730</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">24</td>
+<td align="right">40080</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">8350</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">34</td>
+<td align="right">56780</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">22766</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">31523</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">23</td>
+<td align="right">40279</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">8756</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">33</td>
+<td align="right">57791</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">21030</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">28040</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">21</td>
+<td align="right">36803</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">7010</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">28</td>
+<td align="right">49070</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">15</td>
+<td align="right">22725</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">19</td>
+<td align="right">28785</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">24</td>
+<td align="right">36360</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">7575</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">33</td>
+<td align="right">49995</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">15</td>
+<td align="right">22819</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">19</td>
+<td align="right">28904</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">38031</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">7606</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">35</td>
+<td align="right">53244</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">28980</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">24</td>
+<td align="right">38640</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">48300</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">9660</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>April</td>
+<td>2018-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">42</td>
+<td align="right">67620</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">13</td>
+<td align="right">19858</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">17</td>
+<td align="right">25968</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">21</td>
+<td align="right">32078</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">6110</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">29</td>
+<td align="right">44298</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">18</td>
+<td align="right">27540</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">23</td>
+<td align="right">35190</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">30</td>
+<td align="right">45900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">7</td>
+<td align="right">10710</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">42</td>
+<td align="right">64260</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">17</td>
+<td align="right">25819</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">22</td>
+<td align="right">33413</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">27</td>
+<td align="right">41006</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">7594</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">39</td>
+<td align="right">59231</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">18</td>
+<td align="right">29273</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">25</td>
+<td align="right">40656</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">31</td>
+<td align="right">50414</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">7</td>
+<td align="right">11384</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">44</td>
+<td align="right">71555</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">16</td>
+<td align="right">26720</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">21</td>
+<td align="right">35070</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">26</td>
+<td align="right">43420</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">8350</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">36</td>
+<td align="right">60120</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">14</td>
+<td align="right">24518</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">20</td>
+<td align="right">35025</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">25</td>
+<td align="right">43781</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">8756</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">35</td>
+<td align="right">61294</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">13</td>
+<td align="right">22783</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">17</td>
+<td align="right">29793</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">22</td>
+<td align="right">38555</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">7010</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">30</td>
+<td align="right">52575</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">16</td>
+<td align="right">24240</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">21</td>
+<td align="right">31815</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">26</td>
+<td align="right">39390</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">7575</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">35</td>
+<td align="right">53025</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">16</td>
+<td align="right">24340</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">21</td>
+<td align="right">31946</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">27</td>
+<td align="right">41074</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">7606</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">38</td>
+<td align="right">57808</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">20</td>
+<td align="right">32200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">26</td>
+<td align="right">41860</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">33</td>
+<td align="right">53130</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">7</td>
+<td align="right">11270</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>May</td>
+<td>2018-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">46</td>
+<td align="right">74060</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">20163</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">14</td>
+<td align="right">25662</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">32994</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">5499</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">24</td>
+<td align="right">43992</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">15</td>
+<td align="right">27540</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">20</td>
+<td align="right">36720</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">25</td>
+<td align="right">45900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">11016</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">35</td>
+<td align="right">64260</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">14</td>
+<td align="right">25515</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">19</td>
+<td align="right">34628</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">23</td>
+<td align="right">41918</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">7290</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">33</td>
+<td align="right">60143</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">15</td>
+<td align="right">29273</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">21</td>
+<td align="right">40982</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">26</td>
+<td align="right">50739</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">11709</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">37</td>
+<td align="right">72206</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">26052</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">18</td>
+<td align="right">36072</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">44088</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">8016</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">31</td>
+<td align="right">62124</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">25218</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">17</td>
+<td align="right">35726</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">21</td>
+<td align="right">44132</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">8406</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">30</td>
+<td align="right">63045</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">23133</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">14</td>
+<td align="right">29442</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">19</td>
+<td align="right">39957</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6309</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">25</td>
+<td align="right">52575</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">23634</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">32724</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">39996</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">7272</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">30</td>
+<td align="right">54540</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">23732</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">18</td>
+<td align="right">32859</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">23</td>
+<td align="right">41987</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">7302</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">32</td>
+<td align="right">58416</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">17</td>
+<td align="right">32844</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">22</td>
+<td align="right">42504</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">28</td>
+<td align="right">54096</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">11592</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>June</td>
+<td>2018-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">39</td>
+<td align="right">75348</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">38</td>
+<td align="right">19000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">41</td>
+<td align="right">20500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">28</td>
+<td align="right">14000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">24</td>
+<td align="right">73200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>July</td>
+<td>2018-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">42</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">10</td>
+<td align="right">30500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">13</td>
+<td align="right">10400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">9000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">16</td>
+<td align="right">12800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">9</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">36600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">15</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">10</td>
+<td align="right">30500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">14</td>
+<td align="right">11200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">18</td>
+<td align="right">9000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">16</td>
+<td align="right">12800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">23</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>August</td>
+<td>2018-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">28</td>
+<td align="right">14000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">25</td>
+<td align="right">12500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>September</td>
+<td>2018-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">25</td>
+<td align="right">12500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">27</td>
+<td align="right">21600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">38</td>
+<td align="right">19000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>October</td>
+<td>2018-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">41</td>
+<td align="right">20500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">28</td>
+<td align="right">14000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">24</td>
+<td align="right">73200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>November</td>
+<td>2018-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">42</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">7</td>
+<td align="right">10500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">9</td>
+<td align="right">27450</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">8800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">15</td>
+<td align="right">7500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">16</td>
+<td align="right">12800</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">9</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">12</td>
+<td align="right">36600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">15</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">21</td>
+<td align="right">10500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">14</td>
+<td align="right">11200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">20</td>
+<td align="right">10000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">10400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">19</td>
+<td align="right">9500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">7</td>
+<td align="right">10500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">9</td>
+<td align="right">27450</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">9600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">8000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">14</td>
+<td align="right">11200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">19</td>
+<td align="right">9500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">15</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">20</td>
+<td align="right">10000</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2018</td>
+<td>December</td>
+<td>2018-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">25</td>
+<td align="right">12500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">23</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">28</td>
+<td align="right">14000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>January</td>
+<td>2019-01-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">25</td>
+<td align="right">12500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">27</td>
+<td align="right">21600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>Feburary</td>
+<td>2019-02-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">41</td>
+<td align="right">20500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">24</td>
+<td align="right">73200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>March</td>
+<td>2019-03-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">42</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">41</td>
+<td align="right">20500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">24</td>
+<td align="right">73200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">43</td>
+<td align="right">21500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">25</td>
+<td align="right">76250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">31</td>
+<td align="right">24800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>April</td>
+<td>2019-04-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">42</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">19</td>
+<td align="right">28500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">32</td>
+<td align="right">25600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">7</td>
+<td align="right">16100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">43</td>
+<td align="right">21500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">27</td>
+<td align="right">21600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">40</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">26</td>
+<td align="right">79300</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">32</td>
+<td align="right">25600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">7</td>
+<td align="right">16100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">46</td>
+<td align="right">23000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">38</td>
+<td align="right">19000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">27</td>
+<td align="right">21600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">27</td>
+<td align="right">21600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">40</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">21</td>
+<td align="right">31500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">27</td>
+<td align="right">82350</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">35</td>
+<td align="right">28000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">7</td>
+<td align="right">16100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>May</td>
+<td>2019-05-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">48</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">20625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">15</td>
+<td align="right">57187.5</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">8625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">25</td>
+<td align="right">15625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">15</td>
+<td align="right">28125</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">20</td>
+<td align="right">76250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">25</td>
+<td align="right">25000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">17250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">36</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">14</td>
+<td align="right">26250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">20</td>
+<td align="right">76250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">25</td>
+<td align="right">25000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">34</td>
+<td align="right">21250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">16</td>
+<td align="right">30000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">21</td>
+<td align="right">80062.5</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">27</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">17250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">37</td>
+<td align="right">23125</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">24375</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">19</td>
+<td align="right">72437.5</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">22000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">32</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">24375</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">68625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">22</td>
+<td align="right">22000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">30</td>
+<td align="right">18750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">20625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">15</td>
+<td align="right">57187.5</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">20</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">8625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">25</td>
+<td align="right">15625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">24375</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">68625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">22000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">31</td>
+<td align="right">19375</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">24375</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">19</td>
+<td align="right">72437.5</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">25000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">34</td>
+<td align="right">21250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">33750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">22</td>
+<td align="right">83875</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">30000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">17250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>June</td>
+<td>2019-06-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">41</td>
+<td align="right">25625</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">42</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">19</td>
+<td align="right">28500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">25</td>
+<td align="right">76250</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>July</td>
+<td>2019-07-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">44</td>
+<td align="right">22000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">10</td>
+<td align="right">30500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">13</td>
+<td align="right">10400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">18</td>
+<td align="right">9000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">28</td>
+<td align="right">14000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">9</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">15</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">14</td>
+<td align="right">11200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">18</td>
+<td align="right">9000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">10</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">20</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>August</td>
+<td>2019-08-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">36</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">21</td>
+<td align="right">16800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">30</td>
+<td align="right">15000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">33</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>September</td>
+<td>2019-09-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">42</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">15</td>
+<td align="right">45750</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">27</td>
+<td align="right">21600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">38</td>
+<td align="right">19000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">21</td>
+<td align="right">64050</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">28</td>
+<td align="right">22400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">39</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">31</td>
+<td align="right">15500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">48800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">26</td>
+<td align="right">13000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">18</td>
+<td align="right">54900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">23</td>
+<td align="right">18400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">32</td>
+<td align="right">16000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">14</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>October</td>
+<td>2019-10-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">40</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">19</td>
+<td align="right">15200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">27</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">29</td>
+<td align="right">23200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">40</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">17</td>
+<td align="right">25500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">22</td>
+<td align="right">67100</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">26</td>
+<td align="right">20800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">23</td>
+<td align="right">70150</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">42</td>
+<td align="right">21000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">15</td>
+<td align="right">22500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">13</td>
+<td align="right">19500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">19</td>
+<td align="right">57950</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">24</td>
+<td align="right">19200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">34</td>
+<td align="right">17000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">17</td>
+<td align="right">51850</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">22</td>
+<td align="right">17600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">29</td>
+<td align="right">14500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">35</td>
+<td align="right">17500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">16</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">20</td>
+<td align="right">61000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">25</td>
+<td align="right">20000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">5</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">37</td>
+<td align="right">18500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">27000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">24</td>
+<td align="right">73200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">30</td>
+<td align="right">24000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">6</td>
+<td align="right">13800</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>November</td>
+<td>2019-11-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">43</td>
+<td align="right">21500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1222</td>
+<td align="right">7</td>
+<td align="right">10500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1222</td>
+<td align="right">9</td>
+<td align="right">27450</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1222</td>
+<td align="right">12</td>
+<td align="right">9600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1222</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1222</td>
+<td align="right">16</td>
+<td align="right">8000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1224</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1224</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1224</td>
+<td align="right">17</td>
+<td align="right">13600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1224</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1224</td>
+<td align="right">23</td>
+<td align="right">11500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1215</td>
+<td align="right">9</td>
+<td align="right">13500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1215</td>
+<td align="right">12</td>
+<td align="right">36600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1215</td>
+<td align="right">15</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1215</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1215</td>
+<td align="right">22</td>
+<td align="right">11000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1301</td>
+<td align="right">11</td>
+<td align="right">16500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1301</td>
+<td align="right">13</td>
+<td align="right">39650</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1301</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1301</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1301</td>
+<td align="right">24</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1336</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1336</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1336</td>
+<td align="right">15</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1336</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1336</td>
+<td align="right">20</td>
+<td align="right">10000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1401</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1401</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1401</td>
+<td align="right">14</td>
+<td align="right">11200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1401</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1401</td>
+<td align="right">19</td>
+<td align="right">9500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1402</td>
+<td align="right">7</td>
+<td align="right">10500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1402</td>
+<td align="right">10</td>
+<td align="right">30500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1402</td>
+<td align="right">12</td>
+<td align="right">9600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1402</td>
+<td align="right">2</td>
+<td align="right">4600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1402</td>
+<td align="right">16</td>
+<td align="right">8000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1212</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1212</td>
+<td align="right">12</td>
+<td align="right">36600</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1212</td>
+<td align="right">14</td>
+<td align="right">11200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1212</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">20</td>
+<td align="right">10000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1217</td>
+<td align="right">8</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1217</td>
+<td align="right">11</td>
+<td align="right">33550</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1217</td>
+<td align="right">15</td>
+<td align="right">12000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1217</td>
+<td align="right">3</td>
+<td align="right">6900</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1217</td>
+<td align="right">21</td>
+<td align="right">10500</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Beaufort</td>
+<td align="right">1288</td>
+<td align="right">12</td>
+<td align="right">18000</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Salish</td>
+<td align="right">1288</td>
+<td align="right">14</td>
+<td align="right">42700</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Labrador</td>
+<td align="right">1288</td>
+<td align="right">18</td>
+<td align="right">14400</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Champlain</td>
+<td align="right">1288</td>
+<td align="right">4</td>
+<td align="right">9200</td>
+</tr>
+<tr>
+<td align="right">2019</td>
+<td>December</td>
+<td>2019-12-01 23:00:00</td>
+<td>Hudson</td>
+<td align="right">1288</td>
+<td align="right">25</td>
+<td align="right">12500</td>
+</tr>
+</tbody></table>
+
+<h2>Task 1: Quantity Sold by Dealer ID:</h2>
+
+<p>as a bar chart, sorted in either ascending or descending order of quantity sold, and change the chart title to Quantity Sold by Dealer ID</p>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Dealer ID</th>
+<th title="Field #2">Sum of Quantity Sold</th>
+</tr></thead>
+<tbody><tr>
+<td>1222</td>
+<td align="right">1683</td>
+</tr>
+<tr>
+<td>1402</td>
+<td align="right">1738</td>
+</tr>
+<tr>
+<td>1401</td>
+<td align="right">2006</td>
+</tr>
+<tr>
+<td>1212</td>
+<td align="right">2083</td>
+</tr>
+<tr>
+<td>1336</td>
+<td align="right">2102</td>
+</tr>
+<tr>
+<td>1217</td>
+<td align="right">2158</td>
+</tr>
+<tr>
+<td>1215</td>
+<td align="right">2238</td>
+</tr>
+<tr>
+<td>1224</td>
+<td align="right">2422</td>
+</tr>
+<tr>
+<td>1301</td>
+<td align="right">2523</td>
+</tr>
+<tr>
+<td>1288</td>
+<td align="right">2644</td>
+</tr>
+<tr>
+<td>Grand Total</td>
+<td align="right">21597</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Excel/QuantitySoldbyDealerID.csv">Quantity Sold by Dealer</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Excel/QuantitySoldByDealerID.png"></a>
+
+<h2>Task 2: Profit by Date and Model:</h2>
+
+<p>as a line chart, and give the chart a title of Profit by Date and Model</p>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Sum of Profit</th>
+<th title="Field #2">Model</th>
+<th title="Field #3">FIELD3</th>
+<th title="Field #4">FIELD4</th>
+<th title="Field #5">FIELD5</th>
+<th title="Field #6">FIELD6</th>
+<th title="Field #7">FIELD7</th>
+</tr></thead>
+<tbody><tr>
+<td>Date</td>
+<td>Beaufort</td>
+<td>Champlain</td>
+<td>Hudson</td>
+<td>Labrador</td>
+<td>Salish</td>
+<td>Grand Total</td>
+</tr>
+<tr>
+<td>1/1/18</td>
+<td>184500</td>
+<td>94300</td>
+<td>143500</td>
+<td>164800</td>
+<td>497150</td>
+<td>1084250</td>
+</tr>
+<tr>
+<td>2/1/18</td>
+<td>199500</td>
+<td>94300</td>
+<td>153500</td>
+<td>175200</td>
+<td>527650</td>
+<td>1150150</td>
+</tr>
+<tr>
+<td>3/1/18</td>
+<td>214500</td>
+<td>112700</td>
+<td>164500</td>
+<td>189600</td>
+<td>570350</td>
+<td>1251650</td>
+</tr>
+<tr>
+<td>4/1/18</td>
+<td>239656.25</td>
+<td>81598.75</td>
+<td>556763.75</td>
+<td>396845</td>
+<td>315018.75</td>
+<td>1589882.5</td>
+</tr>
+<tr>
+<td>5/1/18</td>
+<td>257288.75</td>
+<td>86365</td>
+<td>598225</td>
+<td>428747.5</td>
+<td>340735</td>
+<td>1711361.25</td>
+</tr>
+<tr>
+<td>6/1/18</td>
+<td>257103</td>
+<td>84411</td>
+<td>606648</td>
+<td>435805.5</td>
+<td>347317.5</td>
+<td>1731285</td>
+</tr>
+<tr>
+<td>7/1/18</td>
+<td>220500</td>
+<td>117300</td>
+<td>172000</td>
+<td>197600</td>
+<td>597800</td>
+<td>1305200</td>
+</tr>
+<tr>
+<td>8/1/18</td>
+<td>148500</td>
+<td>71300</td>
+<td>115000</td>
+<td>132000</td>
+<td>396500</td>
+<td>863300</td>
+</tr>
+<tr>
+<td>9/1/18</td>
+<td>201000</td>
+<td>101200</td>
+<td>158000</td>
+<td>181600</td>
+<td>552050</td>
+<td>1193850</td>
+</tr>
+<tr>
+<td>10/1/18</td>
+<td>205500</td>
+<td>101200</td>
+<td>160500</td>
+<td>184800</td>
+<td>558150</td>
+<td>1210150</td>
+</tr>
+<tr>
+<td>11/1/18</td>
+<td>225000</td>
+<td>117300</td>
+<td>174000</td>
+<td>198400</td>
+<td>600850</td>
+<td>1315550</td>
+</tr>
+<tr>
+<td>12/1/18</td>
+<td>129000</td>
+<td>71300</td>
+<td>100500</td>
+<td>116000</td>
+<td>347700</td>
+<td>764500</td>
+</tr>
+<tr>
+<td>1/1/19</td>
+<td>192000</td>
+<td>94300</td>
+<td>148500</td>
+<td>172000</td>
+<td>512400</td>
+<td>1119200</td>
+</tr>
+<tr>
+<td>2/1/19</td>
+<td>204000</td>
+<td>94300</td>
+<td>160000</td>
+<td>180000</td>
+<td>545950</td>
+<td>1184250</td>
+</tr>
+<tr>
+<td>3/1/19</td>
+<td>223500</td>
+<td>112700</td>
+<td>172500</td>
+<td>194400</td>
+<td>594750</td>
+<td>1297850</td>
+</tr>
+<tr>
+<td>4/1/19</td>
+<td>231000</td>
+<td>117300</td>
+<td>179000</td>
+<td>204800</td>
+<td>625250</td>
+<td>1357350</td>
+</tr>
+<tr>
+<td>5/1/19</td>
+<td>250500</td>
+<td>124200</td>
+<td>193000</td>
+<td>224000</td>
+<td>674050</td>
+<td>1465750</td>
+</tr>
+<tr>
+<td>6/1/19</td>
+<td>256875</td>
+<td>126500</td>
+<td>203125</td>
+<td>236000</td>
+<td>712937.5</td>
+<td>1535437.5</td>
+</tr>
+<tr>
+<td>7/1/19</td>
+<td>231000</td>
+<td>117300</td>
+<td>177500</td>
+<td>203200</td>
+<td>610000</td>
+<td>1339000</td>
+</tr>
+<tr>
+<td>8/1/19</td>
+<td>153000</td>
+<td>71300</td>
+<td>117000</td>
+<td>135200</td>
+<td>408700</td>
+<td>885200</td>
+</tr>
+<tr>
+<td>9/1/19</td>
+<td>208500</td>
+<td>101200</td>
+<td>162500</td>
+<td>183200</td>
+<td>573400</td>
+<td>1228800</td>
+</tr>
+<tr>
+<td>10/1/19</td>
+<td>216000</td>
+<td>101200</td>
+<td>166000</td>
+<td>192000</td>
+<td>573400</td>
+<td>1248600</td>
+</tr>
+<tr>
+<td>11/1/19</td>
+<td>232500</td>
+<td>117300</td>
+<td>179500</td>
+<td>203200</td>
+<td>622200</td>
+<td>1354700</td>
+</tr>
+<tr>
+<td>12/1/19</td>
+<td>133500</td>
+<td>71300</td>
+<td>103000</td>
+<td>120000</td>
+<td>353800</td>
+<td>781600</td>
+</tr>
+<tr>
+<td>Grand Total</td>
+<td>5014423</td>
+<td>2382175</td>
+<td>5064762</td>
+<td>5049398</td>
+<td>12458109</td>
+<td>29968866</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Excel/ProfitbyDateandModel.csv">Profit by Date and Model</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Excel/ProfitByDateAndModel.png"></a>
+
+<h2>Task 3: Profit by Year and Dealer ID:</h2>
+
+<p>as a column chart, titled Profit by Year and Dealer ID with the data columns in red.</p>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Year</th>
+<th title="Field #2">Dealer ID</th>
+<th title="Field #3">Sum of Profit</th>
+</tr></thead>
+<tbody><tr>
+<td>2018</td>
+<td align="right">1212</td>
+<td align="right">1442501</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1215</td>
+<td align="right">1546386.25</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1217</td>
+<td align="right">1477022.5</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1222</td>
+<td align="right">1173165</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1224</td>
+<td align="right">1684246</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1288</td>
+<td align="right">1862804</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1301</td>
+<td align="right">1782083.75</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1336</td>
+<td align="right">1499372</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1401</td>
+<td align="right">1448764.75</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1402</td>
+<td align="right">1254783.5</td>
+</tr>
+<tr>
+<td>2018 Total</td>
+<td align="right"></td>
+<td align="right">15171128.75</td>
+</tr>
+<tr>
+<td>2019</td>
+<td align="right">1212</td>
+<td align="right">1438925</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1215</td>
+<td align="right">1539600</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1217</td>
+<td align="right">1468762.5</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1222</td>
+<td align="right">1163362.5</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1224</td>
+<td align="right">1648825</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1288</td>
+<td align="right">1810750</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1301</td>
+<td align="right">1721337.5</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1336</td>
+<td align="right">1441162.5</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1401</td>
+<td align="right">1377400</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1402</td>
+<td align="right">1187612.5</td>
+</tr>
+<tr>
+<td>2019 Total</td>
+<td align="right"></td>
+<td align="right">14797737.5</td>
+</tr>
+<tr>
+<td>Grand Total</td>
+<td align="right"></td>
+<td align="right">29968866.25</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="">Profit by Year and Dealer ID</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Excel/ProfitbyYearandDealerID.png"></a>
+
+<h2>Task 4: Sum of Profits for Hudson model cars by Dealer ID:</h2>
+
+<p>as a line chart, titled Profit of Hudson Models by Dealer ID. Also, remove the horizontal gridlines from the chart, put the legend on the right side of the chart, and color the series outline in green. </p>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Model</th>
+<th title="Field #2">Dealer ID</th>
+<th title="Field #3">Sum of Profit</th>
+</tr></thead>
+<tbody><tr>
+<td>Hudson</td>
+<td align="right">1212</td>
+<td align="right">470435</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1215</td>
+<td align="right">518798.75</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1217</td>
+<td align="right">504217.25</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1222</td>
+<td align="right">381657</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1224</td>
+<td align="right">557190</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1288</td>
+<td align="right">621153</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1301</td>
+<td align="right">599561.75</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1336</td>
+<td align="right">501524</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1401</td>
+<td align="right">492880</td>
+</tr>
+<tr>
+<td> </td>
+<td align="right">1402</td>
+<td align="right">417345</td>
+</tr>
+<tr>
+<td>Hudson Total</td>
+<td align="right"></td>
+<td align="right">5064761.75</td>
+</tr>
+<tr>
+<td>Grand Total</td>
+<td align="right"></td>
+<td align="right">5064761.75</td>
+</tr>
+</tbody></table>
+
+Link to Source Code: <a href="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Excel/ProfitofHudsonModelsbyDealerID.csv">Sum of Profits for Hudson model cars by Dealer ID</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/Excel/ProfitofHudsonModelsbyDealerID.png"></a>
+
+<h1>Data Visualization with IBM Cognos Analytics</h1>
+
+<h2>Scenario:</h2>
+
+<p>As a regional manager for a chain of car dealerships you need to build out a dashboard to allow you to understand your sales and service departments.</p>
+
+<p>Capture the following KPI metrics as visualizations:</p>
+
+<h2>Task 1: On the Sales dashboard, capture the following KPI metrics:</h2>
+
+<ul>
+	<li>In the first small rectangle (Panel 1), capture Profit (formatted to 1 decimal place in millions of US dollars)</li>
+	<li>In the second small rectangle (Panel 2), capture Quantity sold</li>
+	<li>In the third small rectangle (Panel 3), capture the Quantity sold by the model (as a bar chart)</li>
+	<li>In the fourth small rectangle (Panel 4), capture Average quantity sold</li>
+</ul>
+
+<h2>Task 2: On the Sales dashboard in the large rectangle (Panel 5), display Profit by Dealer ID as a column chart, sorted in ascending order.</h2>
+
+Link to Source Code: <a href="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAutomation%2BDashboard&action=view&mode=dashboard&subView=model000001924fb8b7f6_00000002">Sales Dashboard</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/IBM%20Cognos/Sales%20Dashboard.png"></a>
+
+<h2>Task 3: On the Service dashboard, capture the following KPI metrics as visualizations:</h2>
+
+<ul>
+	<li>In the top left area (Panel 1), capture the number of recalls per model of car (as a column chart)</li>
+	<li>n the top right area (Panel 2), capture the customer sentiment by comparing positive, neutral, and negative reviews (as a treemap)</li>
+	<li>In the bottom left area (Panel 3), capture the number of cars sold per month compared to the profit (as a line and column chart).</li>
+	<li>In the bottom right area (Panel 4), capture the number of recalls by model and affected system (as a heat map). This will help us understand if there are any outliers for a given model or a specific system.</li>
+</ul>
+
+Link to Source Code: <a href="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAutomation%2BDashboard&action=view&mode=dashboard&subView=model000001924fb8e5cc_00000000">Services Dashboard</a><br>
+
+<img src="https://github.com/nushratea/Project-Data/blob/main/Data%20Visualization%20Examples/IBM%20Cognos/Services%20Dashboard.png"></a>
