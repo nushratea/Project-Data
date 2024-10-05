@@ -53,6 +53,16 @@ adult=import("adult.csv")
 names(adult)=tolower(names(adult))
 ```
 
+Import the necessary libaries needed:
+
+```{r}
+library(shiny)
+library(tidyverse)
+library(rio)
+library(ggthemes)
+library(rsconnect)
+```
+
 Task 1: Add application title in the UI
 
 ```{r}
