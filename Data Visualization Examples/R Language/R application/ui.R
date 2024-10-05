@@ -6,7 +6,7 @@ library(ggthemes)
 library(rsconnect)
 
 # Load dataset 
-adult=import("/Users/parisha/ShinyApp/Final Project/adult.csv")
+adult=import("adult.csv")
 # Convert column names to lowercase for convenience 
 names(adult)=tolower(names(adult))
 
