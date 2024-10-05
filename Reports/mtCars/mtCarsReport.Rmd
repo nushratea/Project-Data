@@ -43,5 +43,3 @@ In this analysis, we explored three variables in the `mtcars` dataset:
 - `weight`: weight in 1000lbs
 
 From our exploratory data analysis, we saw that there are trends between the number of cylinders a car has and its mileage as well as its weight. Cars with more cylinders are likely heavier, so it makes more sense that we saw in the scatter plot that cars with 8 cylinders were often heavier. Additionally, in general, these heavier cars with more cylinders have lower mileage.
-
-<img src="https://github.com/nushratea/Project-Data/blob/main/Reports/mtCars/mtCarsReport.jpeg">mtCars Report</a>
