@@ -87,16 +87,17 @@ It can take in a value directly or a variable that stores a value.
 ```python
 from IPython.display import Image, display
 
-# Define the URL for the image
-url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/functions.png"
+# Use the raw URL for the image
+url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/functions.png"
 
 # Display the image
 display(Image(url=url))
 
+
 ```
 
 
-<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/functions.png"/>
+<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/functions.png"/>
 
 
 ### return vs. print
@@ -236,15 +237,16 @@ total_sales(15.99, 1001)
 ```python
 from IPython.display import Image, display
 
-# Define the URL for the image
-url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/Comparators.png"
+# Use the raw URL for the image
+url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/Comparators.png"
 
 # Display the image
 display(Image(url=url))
+
 ```
 
 
-<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/Comparators.png"/>
+<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/Comparators.png"/>
 
 
 #### Notes
@@ -271,15 +273,15 @@ These operators are:</p>
 ```python
 from IPython.display import Image, display
 
-# Define the URL for the image
-url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/Operators.png"
+# Use the raw URL for the image
+url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/Operators.png"
 
 # Display the image
 display(Image(url=url))
 ```
 
 
-<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/Operators.png"/>
+<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/Operators.png"/>
 
 
 # Conditional Statements
@@ -292,30 +294,30 @@ display(Image(url=url))
 ```python
 from IPython.display import Image, display
 
-# Define the URL for the image
-url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/Conditions.png"
+# Use the raw URL for the image
+url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/Conditions.png"
 
 # Display the image
 display(Image(url=url))
 ```
 
 
-<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/Conditions.png"/>
+<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/Conditions.png"/>
 
 
 
 ```python
 from IPython.display import Image, display
 
-# Define the URL for the image
-url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/exampleconditions.png"
+# Use the raw URL for the image
+url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/exampleconditions.png"
 
 # Display the image
 display(Image(url=url))
 ```
 
 
-<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/exampleconditions.png"/>
+<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/exampleconditions.png"/>
 
 
 ### Important Key Points:
@@ -881,16 +883,15 @@ print(f'var_a = {var_a} \nvar_b = {var_b}')
 ```python
 from IPython.display import Image, display
 
-# Define the URL for the image
-url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/strings.png"
+# Use the raw URL for the image
+url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/strings.png"
 
 # Display the image
 display(Image(url=url))
-
 ```
 
 
-<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/strings.png"/>
+<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/strings.png"/>
 
 
 
@@ -903,16 +904,15 @@ f'{num:.2f}'
 ```python
 from IPython.display import Image, display
 
-# Define the URL for the image
-url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/stringpresentation.png"
+# Use the raw URL for the image
+url = "https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/stringpresentation.png"
 
 # Display the image
 display(Image(url=url))
-
 ```
 
 
-<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Basics%20for%20J.Notebook/stringpresentation.png"/>
+<img src="https://raw.githubusercontent.com/nushratea/Project-Data/main/Data%20Visualization%20Examples/Python/Python%20Jupyter%20Notebook/Basics/stringpresentation.png"/>
 
 
 
