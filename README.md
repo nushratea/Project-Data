@@ -4,25 +4,7 @@
 
 <h2>About</h2>
 
-Hello there! Even thou, I do not know of your name, it is a pleasure to have you on my readme Git Hub. 
-
-My name is Nushrate Ahmed and I am an accomplished Data Analyst with six years of extensive experience analyzing and interpreting complex data sets to drive informed and strategic business decisions. 
-My analytical skills complement my background as a proficient Web Developer, where I have honed my expertise in Project Management, Customer Service, Microsoft Office, Leadership, and Collaborative Teamwork.
-
-I hold a Bachelor's degree in Information Technology, enriched by a minor in Psychology. 
-My academic journey has been marked by a dual concentration in Multimedia/Web Development and Database Management, equipping me with a robust and versatile skill set.
-
-Throughout my career, I have demonstrated a strong ability to manage and execute projects efficiently, deliver exceptional customer service, and lead teams toward achieving organizational goals. 
-I can utilize data to uncover insights, streamline processes, and enhance operational efficiency.
-
-I am currently seeking opportunities to develop my skills further and make a meaningful contribution to an innovative and forward-thinking organization. 
-My goal is to leverage my analytical and technical expertise to drive impactful results and foster continuous growth.
-
-I look forward to hearing from you!
-
-P.S. Do check out my CV as it is uploaded. Please feel free to also request a copy through email. Due to privacy concerns, my LinkedIn profile was used in place of my CV. 
-
-<b>Thank you, and hope that you have a great day!</b>
+Seasoned and results-driven Data Analyst with over 9 years of experience transforming complex datasets into actionable insights to optimize workflows, enhance productivity, and drive strategic decision-making. Skilled in data analysis, quality management, and visualization, with expertise in leveraging tools like SQL, Python, Power BI, Tableau, and ServiceNow to identify trends, streamline operations, and ensure data accuracy. Proven track record of leading large-scale data migration projects, automating processes, and developing solutions that reduce inefficiencies and improve system performance. Adept at collaborating with cross-functional teams and senior leadership to align data strategies with organizational goals. Passionate about using data-driven approaches to solve business challenges, improve operational outcomes, and deliver measurable results.
 
 <h2>Portfolio Projects</h2>
 
@@ -221,15 +203,19 @@ P.S. Do check out my CV as it is uploaded. Please feel free to also request a co
 
 <h2>Certifications</h2>
 <ul>
+  <li>Security+ Certified – CompTIA</li>
+  <li>Professional Scrum Master - SCRUM.org</li>
   <li>AWS Certified Data Analytics – AWS</li> 
   <li>AWS Certified Database Specialty – AWS</li> 
-  <li>Security+ Certified – CompTIA</li>
   <li>Microsoft Certified Azure Administrator Associate – Microsoft</li> 
   <li>Microsoft Certified Azure Fundamentals – Microsoft</li>
   <li>Microsoft Certified Azure Data Fundamentals – Microsoft</li>
   <li>Microsoft Power BI Data Analyst Associate – Microsoft</li>
   <li>Google Data Analytics Professional Certificate – Coursera</li>
   <li>Tableau Desktop Specialist – Tableau</li>
+  <li>Google Advanced Data Analytics Professional Certificate - Coursera</li>
+  <li>Data Analyst Professional Certificate - IBM</li>
+  <li>ITIL 4 Certification Specialization - Educba</li>
 </ul>
 
 <h2>Contact</h2>
